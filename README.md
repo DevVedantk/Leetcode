@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [1877-minimize-maximum-pair-sum-in-array](https://github.com/DevVedantk/Leetcode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [3819-rotate-non-negative-elements](https://github.com/DevVedantk/Leetcode/tree/master/3819-rotate-non-negative-elements) |
 | [3824-minimum-k-to-reduce-array-within-limit](https://github.com/DevVedantk/Leetcode/tree/master/3824-minimum-k-to-reduce-array-within-limit) |
 ## Binary Search
@@ -26,4 +27,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3820-pythagorean-distance-nodes-in-a-tree](https://github.com/DevVedantk/Leetcode/tree/master/3820-pythagorean-distance-nodes-in-a-tree) |
+## Two Pointers
+|  |
+| ------- |
+| [1877-minimize-maximum-pair-sum-in-array](https://github.com/DevVedantk/Leetcode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
+## Greedy
+|  |
+| ------- |
+| [1877-minimize-maximum-pair-sum-in-array](https://github.com/DevVedantk/Leetcode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
+## Sorting
+|  |
+| ------- |
+| [1877-minimize-maximum-pair-sum-in-array](https://github.com/DevVedantk/Leetcode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 <!---LeetCode Topics End-->
