@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/DevVedantk/Leetcode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/DevVedantk/Leetcode/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2080-range-frequency-queries](https://github.com/DevVedantk/Leetcode/tree/master/2080-range-frequency-queries) |
+| [2407-longest-increasing-subsequence-ii](https://github.com/DevVedantk/Leetcode/tree/master/2407-longest-increasing-subsequence-ii) |
 | [3477-fruits-into-baskets-ii](https://github.com/DevVedantk/Leetcode/tree/master/3477-fruits-into-baskets-ii) |
 | [3479-fruits-into-baskets-iii](https://github.com/DevVedantk/Leetcode/tree/master/3479-fruits-into-baskets-iii) |
 | [3634-minimum-removals-to-balance-array](https://github.com/DevVedantk/Leetcode/tree/master/3634-minimum-removals-to-balance-array) |
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [2407-longest-increasing-subsequence-ii](https://github.com/DevVedantk/Leetcode/tree/master/2407-longest-increasing-subsequence-ii) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/DevVedantk/Leetcode/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/DevVedantk/Leetcode/tree/master/3739-count-subarrays-with-majority-element-ii) |
 | [3826-minimum-partition-score](https://github.com/DevVedantk/Leetcode/tree/master/3826-minimum-partition-score) |
@@ -72,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2080-range-frequency-queries](https://github.com/DevVedantk/Leetcode/tree/master/2080-range-frequency-queries) |
+| [2407-longest-increasing-subsequence-ii](https://github.com/DevVedantk/Leetcode/tree/master/2407-longest-increasing-subsequence-ii) |
 | [3477-fruits-into-baskets-ii](https://github.com/DevVedantk/Leetcode/tree/master/3477-fruits-into-baskets-ii) |
 | [3479-fruits-into-baskets-iii](https://github.com/DevVedantk/Leetcode/tree/master/3479-fruits-into-baskets-iii) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/DevVedantk/Leetcode/tree/master/3737-count-subarrays-with-majority-element-i) |
@@ -98,14 +101,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [2407-longest-increasing-subsequence-ii](https://github.com/DevVedantk/Leetcode/tree/master/2407-longest-increasing-subsequence-ii) |
 | [3826-minimum-partition-score](https://github.com/DevVedantk/Leetcode/tree/master/3826-minimum-partition-score) |
 ## Queue
 |  |
 | ------- |
+| [2407-longest-increasing-subsequence-ii](https://github.com/DevVedantk/Leetcode/tree/master/2407-longest-increasing-subsequence-ii) |
 | [3826-minimum-partition-score](https://github.com/DevVedantk/Leetcode/tree/master/3826-minimum-partition-score) |
 ## Monotonic Queue
 |  |
 | ------- |
+| [2407-longest-increasing-subsequence-ii](https://github.com/DevVedantk/Leetcode/tree/master/2407-longest-increasing-subsequence-ii) |
 | [3826-minimum-partition-score](https://github.com/DevVedantk/Leetcode/tree/master/3826-minimum-partition-score) |
 ## Sliding Window
 |  |
@@ -117,4 +123,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [3477-fruits-into-baskets-ii](https://github.com/DevVedantk/Leetcode/tree/master/3477-fruits-into-baskets-ii) |
 | [3479-fruits-into-baskets-iii](https://github.com/DevVedantk/Leetcode/tree/master/3479-fruits-into-baskets-iii) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [2407-longest-increasing-subsequence-ii](https://github.com/DevVedantk/Leetcode/tree/master/2407-longest-increasing-subsequence-ii) |
 <!---LeetCode Topics End-->
