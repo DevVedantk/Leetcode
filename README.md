@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0066-plus-one](https://github.com/DevVedantk/Leetcode/tree/master/0066-plus-one) |
 | [0085-maximal-rectangle](https://github.com/DevVedantk/Leetcode/tree/master/0085-maximal-rectangle) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/DevVedantk/Leetcode/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1200-minimum-absolute-difference](https://github.com/DevVedantk/Leetcode/tree/master/1200-minimum-absolute-difference) |
@@ -164,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0066-plus-one](https://github.com/DevVedantk/Leetcode/tree/master/0066-plus-one) |
 | [3805-count-caesar-cipher-pairs](https://github.com/DevVedantk/Leetcode/tree/master/3805-count-caesar-cipher-pairs) |
 ## Enumeration
 |  |
