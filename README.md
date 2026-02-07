@@ -44,11 +44,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/DevVedantk/Leetcode/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
+| [1161-maximum-level-sum-of-a-binary-tree](https://github.com/DevVedantk/Leetcode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [3820-pythagorean-distance-nodes-in-a-tree](https://github.com/DevVedantk/Leetcode/tree/master/3820-pythagorean-distance-nodes-in-a-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/DevVedantk/Leetcode/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
+| [1161-maximum-level-sum-of-a-binary-tree](https://github.com/DevVedantk/Leetcode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [3820-pythagorean-distance-nodes-in-a-tree](https://github.com/DevVedantk/Leetcode/tree/master/3820-pythagorean-distance-nodes-in-a-tree) |
 ## Two Pointers
 |  |
@@ -146,10 +148,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/DevVedantk/Leetcode/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
+| [1161-maximum-level-sum-of-a-binary-tree](https://github.com/DevVedantk/Leetcode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/DevVedantk/Leetcode/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
+| [1161-maximum-level-sum-of-a-binary-tree](https://github.com/DevVedantk/Leetcode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 ## Math
 |  |
 | ------- |
