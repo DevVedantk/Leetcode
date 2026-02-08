@@ -17,7 +17,6 @@ long long solve(vector<int>&arr1,vector<int>&arr2,int k,int i,int j){
     if(dp[i][j][k]!=-1e18) return dp[i][j][k];
     ans=max(ans,solve(arr1,arr2,k,i+1,j));
     ans=max(ans,solve(arr1,arr2,k,i,j+1));
-    ans=max(ans,solve(arr1,arr2,k,i+1,j+1));
     ans=max(ans,((long long)arr1[i]*(long long)arr2[j])+solve(arr1,arr2,k-1,i+1,j+1));
     return dp[i][j][k]=ans; 
     
