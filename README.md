@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/DevVedantk/Leetcode/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2080-range-frequency-queries](https://github.com/DevVedantk/Leetcode/tree/master/2080-range-frequency-queries) |
 | [2407-longest-increasing-subsequence-ii](https://github.com/DevVedantk/Leetcode/tree/master/2407-longest-increasing-subsequence-ii) |
+| [3075-maximize-happiness-of-selected-children](https://github.com/DevVedantk/Leetcode/tree/master/3075-maximize-happiness-of-selected-children) |
 | [3477-fruits-into-baskets-ii](https://github.com/DevVedantk/Leetcode/tree/master/3477-fruits-into-baskets-ii) |
 | [3479-fruits-into-baskets-iii](https://github.com/DevVedantk/Leetcode/tree/master/3479-fruits-into-baskets-iii) |
 | [3634-minimum-removals-to-balance-array](https://github.com/DevVedantk/Leetcode/tree/master/3634-minimum-removals-to-balance-array) |
@@ -73,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/DevVedantk/Leetcode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
+| [3075-maximize-happiness-of-selected-children](https://github.com/DevVedantk/Leetcode/tree/master/3075-maximize-happiness-of-selected-children) |
 | [3789-minimum-cost-to-acquire-required-items](https://github.com/DevVedantk/Leetcode/tree/master/3789-minimum-cost-to-acquire-required-items) |
 ## Sorting
 |  |
@@ -80,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1200-minimum-absolute-difference](https://github.com/DevVedantk/Leetcode/tree/master/1200-minimum-absolute-difference) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/DevVedantk/Leetcode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/DevVedantk/Leetcode/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
+| [3075-maximize-happiness-of-selected-children](https://github.com/DevVedantk/Leetcode/tree/master/3075-maximize-happiness-of-selected-children) |
 | [3634-minimum-removals-to-balance-array](https://github.com/DevVedantk/Leetcode/tree/master/3634-minimum-removals-to-balance-array) |
 ## Hash Table
 |  |
