@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3721-longest-balanced-subarray-ii](https://github.com/DevVedantk/Leetcode/tree/master/3721-longest-balanced-subarray-ii) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/DevVedantk/Leetcode/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/DevVedantk/Leetcode/tree/master/3739-count-subarrays-with-majority-element-ii) |
+| [3776-minimum-moves-to-balance-circular-array](https://github.com/DevVedantk/Leetcode/tree/master/3776-minimum-moves-to-balance-circular-array) |
 | [3779-minimum-number-of-operations-to-have-distinct-elements](https://github.com/DevVedantk/Leetcode/tree/master/3779-minimum-number-of-operations-to-have-distinct-elements) |
 | [3784-minimum-deletion-cost-to-make-all-characters-equal](https://github.com/DevVedantk/Leetcode/tree/master/3784-minimum-deletion-cost-to-make-all-characters-equal) |
 | [3788-maximum-score-of-a-split](https://github.com/DevVedantk/Leetcode/tree/master/3788-maximum-score-of-a-split) |
@@ -108,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/DevVedantk/Leetcode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [3074-apple-redistribution-into-boxes](https://github.com/DevVedantk/Leetcode/tree/master/3074-apple-redistribution-into-boxes) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/DevVedantk/Leetcode/tree/master/3075-maximize-happiness-of-selected-children) |
+| [3776-minimum-moves-to-balance-circular-array](https://github.com/DevVedantk/Leetcode/tree/master/3776-minimum-moves-to-balance-circular-array) |
 | [3789-minimum-cost-to-acquire-required-items](https://github.com/DevVedantk/Leetcode/tree/master/3789-minimum-cost-to-acquire-required-items) |
 ## Sorting
 |  |
@@ -118,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3074-apple-redistribution-into-boxes](https://github.com/DevVedantk/Leetcode/tree/master/3074-apple-redistribution-into-boxes) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/DevVedantk/Leetcode/tree/master/3075-maximize-happiness-of-selected-children) |
 | [3634-minimum-removals-to-balance-array](https://github.com/DevVedantk/Leetcode/tree/master/3634-minimum-removals-to-balance-array) |
+| [3776-minimum-moves-to-balance-circular-array](https://github.com/DevVedantk/Leetcode/tree/master/3776-minimum-moves-to-balance-circular-array) |
 ## Hash Table
 |  |
 | ------- |
