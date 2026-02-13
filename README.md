@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0955-delete-columns-to-make-sorted-ii](https://github.com/DevVedantk/Leetcode/tree/master/0955-delete-columns-to-make-sorted-ii) |
 | [3606-coupon-code-validator](https://github.com/DevVedantk/Leetcode/tree/master/3606-coupon-code-validator) |
 | [3713-longest-balanced-substring-i](https://github.com/DevVedantk/Leetcode/tree/master/3713-longest-balanced-substring-i) |
+| [3760-maximum-substrings-with-distinct-start](https://github.com/DevVedantk/Leetcode/tree/master/3760-maximum-substrings-with-distinct-start) |
 | [3775-reverse-words-with-same-vowel-count](https://github.com/DevVedantk/Leetcode/tree/master/3775-reverse-words-with-same-vowel-count) |
 | [3784-minimum-deletion-cost-to-make-all-characters-equal](https://github.com/DevVedantk/Leetcode/tree/master/3784-minimum-deletion-cost-to-make-all-characters-equal) |
 | [3794-reverse-string-prefix](https://github.com/DevVedantk/Leetcode/tree/master/3794-reverse-string-prefix) |
@@ -143,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3721-longest-balanced-subarray-ii](https://github.com/DevVedantk/Leetcode/tree/master/3721-longest-balanced-subarray-ii) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/DevVedantk/Leetcode/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/DevVedantk/Leetcode/tree/master/3739-count-subarrays-with-majority-element-ii) |
+| [3760-maximum-substrings-with-distinct-start](https://github.com/DevVedantk/Leetcode/tree/master/3760-maximum-substrings-with-distinct-start) |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/DevVedantk/Leetcode/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
 | [3779-minimum-number-of-operations-to-have-distinct-elements](https://github.com/DevVedantk/Leetcode/tree/master/3779-minimum-number-of-operations-to-have-distinct-elements) |
 | [3784-minimum-deletion-cost-to-make-all-characters-equal](https://github.com/DevVedantk/Leetcode/tree/master/3784-minimum-deletion-cost-to-make-all-characters-equal) |
