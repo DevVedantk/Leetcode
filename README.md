@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3606-coupon-code-validator](https://github.com/DevVedantk/Leetcode/tree/master/3606-coupon-code-validator) |
 | [3713-longest-balanced-substring-i](https://github.com/DevVedantk/Leetcode/tree/master/3713-longest-balanced-substring-i) |
 | [3746-minimum-string-length-after-balanced-removals](https://github.com/DevVedantk/Leetcode/tree/master/3746-minimum-string-length-after-balanced-removals) |
+| [3750-minimum-number-of-flips-to-reverse-binary-string](https://github.com/DevVedantk/Leetcode/tree/master/3750-minimum-number-of-flips-to-reverse-binary-string) |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/DevVedantk/Leetcode/tree/master/3760-maximum-substrings-with-distinct-start) |
 | [3775-reverse-words-with-same-vowel-count](https://github.com/DevVedantk/Leetcode/tree/master/3775-reverse-words-with-same-vowel-count) |
 | [3784-minimum-deletion-cost-to-make-all-characters-equal](https://github.com/DevVedantk/Leetcode/tree/master/3784-minimum-deletion-cost-to-make-all-characters-equal) |
@@ -134,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/DevVedantk/Leetcode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/DevVedantk/Leetcode/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
+| [3750-minimum-number-of-flips-to-reverse-binary-string](https://github.com/DevVedantk/Leetcode/tree/master/3750-minimum-number-of-flips-to-reverse-binary-string) |
 | [3775-reverse-words-with-same-vowel-count](https://github.com/DevVedantk/Leetcode/tree/master/3775-reverse-words-with-same-vowel-count) |
 | [3794-reverse-string-prefix](https://github.com/DevVedantk/Leetcode/tree/master/3794-reverse-string-prefix) |
 ## Greedy
@@ -332,6 +334,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/DevVedantk/Leetcode/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/DevVedantk/Leetcode/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/DevVedantk/Leetcode/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
+| [3750-minimum-number-of-flips-to-reverse-binary-string](https://github.com/DevVedantk/Leetcode/tree/master/3750-minimum-number-of-flips-to-reverse-binary-string) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/DevVedantk/Leetcode/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 | [3753-total-waviness-of-numbers-in-range-ii](https://github.com/DevVedantk/Leetcode/tree/master/3753-total-waviness-of-numbers-in-range-ii) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/DevVedantk/Leetcode/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
@@ -372,6 +375,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1483-kth-ancestor-of-a-tree-node](https://github.com/DevVedantk/Leetcode/tree/master/1483-kth-ancestor-of-a-tree-node) |
 | [3117-minimum-sum-of-values-by-dividing-array](https://github.com/DevVedantk/Leetcode/tree/master/3117-minimum-sum-of-values-by-dividing-array) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/DevVedantk/Leetcode/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
+| [3750-minimum-number-of-flips-to-reverse-binary-string](https://github.com/DevVedantk/Leetcode/tree/master/3750-minimum-number-of-flips-to-reverse-binary-string) |
 ## Binary Search Tree
 |  |
 | ------- |
