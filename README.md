@@ -256,6 +256,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3165-maximum-sum-of-subsequence-with-non-adjacent-elements](https://github.com/DevVedantk/Leetcode/tree/master/3165-maximum-sum-of-subsequence-with-non-adjacent-elements) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/DevVedantk/Leetcode/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 | [3573-best-time-to-buy-and-sell-stock-v](https://github.com/DevVedantk/Leetcode/tree/master/3573-best-time-to-buy-and-sell-stock-v) |
+| [3751-total-waviness-of-numbers-in-range-i](https://github.com/DevVedantk/Leetcode/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 | [3791-number-of-balanced-integers-in-a-range](https://github.com/DevVedantk/Leetcode/tree/master/3791-number-of-balanced-integers-in-a-range) |
 | [3826-minimum-partition-score](https://github.com/DevVedantk/Leetcode/tree/master/3826-minimum-partition-score) |
 ## Queue
@@ -330,6 +331,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/DevVedantk/Leetcode/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/DevVedantk/Leetcode/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/DevVedantk/Leetcode/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
+| [3751-total-waviness-of-numbers-in-range-i](https://github.com/DevVedantk/Leetcode/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/DevVedantk/Leetcode/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/DevVedantk/Leetcode/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
 | [3783-mirror-distance-of-an-integer](https://github.com/DevVedantk/Leetcode/tree/master/3783-mirror-distance-of-an-integer) |
@@ -341,6 +343,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3234-count-the-number-of-substrings-with-dominant-ones](https://github.com/DevVedantk/Leetcode/tree/master/3234-count-the-number-of-substrings-with-dominant-ones) |
 | [3713-longest-balanced-substring-i](https://github.com/DevVedantk/Leetcode/tree/master/3713-longest-balanced-substring-i) |
 | [3745-maximize-expression-of-three-elements](https://github.com/DevVedantk/Leetcode/tree/master/3745-maximize-expression-of-three-elements) |
+| [3751-total-waviness-of-numbers-in-range-i](https://github.com/DevVedantk/Leetcode/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 | [3784-minimum-deletion-cost-to-make-all-characters-equal](https://github.com/DevVedantk/Leetcode/tree/master/3784-minimum-deletion-cost-to-make-all-characters-equal) |
 | [3804-number-of-centered-subarrays](https://github.com/DevVedantk/Leetcode/tree/master/3804-number-of-centered-subarrays) |
 ## Stack
