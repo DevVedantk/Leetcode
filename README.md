@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1200-minimum-absolute-difference](https://github.com/DevVedantk/Leetcode/tree/master/1200-minimum-absolute-difference) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/DevVedantk/Leetcode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1458-max-dot-product-of-two-subsequences](https://github.com/DevVedantk/Leetcode/tree/master/1458-max-dot-product-of-two-subsequences) |
+| [1578-minimum-time-to-make-rope-colorful](https://github.com/DevVedantk/Leetcode/tree/master/1578-minimum-time-to-make-rope-colorful) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/DevVedantk/Leetcode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/DevVedantk/Leetcode/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2049-count-nodes-with-the-highest-score](https://github.com/DevVedantk/Leetcode/tree/master/2049-count-nodes-with-the-highest-score) |
@@ -76,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/DevVedantk/Leetcode/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0955-delete-columns-to-make-sorted-ii](https://github.com/DevVedantk/Leetcode/tree/master/0955-delete-columns-to-make-sorted-ii) |
 | [1513-number-of-substrings-with-only-1s](https://github.com/DevVedantk/Leetcode/tree/master/1513-number-of-substrings-with-only-1s) |
+| [1578-minimum-time-to-make-rope-colorful](https://github.com/DevVedantk/Leetcode/tree/master/1578-minimum-time-to-make-rope-colorful) |
 | [3234-count-the-number-of-substrings-with-dominant-ones](https://github.com/DevVedantk/Leetcode/tree/master/3234-count-the-number-of-substrings-with-dominant-ones) |
 | [3606-coupon-code-validator](https://github.com/DevVedantk/Leetcode/tree/master/3606-coupon-code-validator) |
 | [3713-longest-balanced-substring-i](https://github.com/DevVedantk/Leetcode/tree/master/3713-longest-balanced-substring-i) |
@@ -146,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0955-delete-columns-to-make-sorted-ii](https://github.com/DevVedantk/Leetcode/tree/master/0955-delete-columns-to-make-sorted-ii) |
 | [1382-balance-a-binary-search-tree](https://github.com/DevVedantk/Leetcode/tree/master/1382-balance-a-binary-search-tree) |
+| [1578-minimum-time-to-make-rope-colorful](https://github.com/DevVedantk/Leetcode/tree/master/1578-minimum-time-to-make-rope-colorful) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/DevVedantk/Leetcode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [3074-apple-redistribution-into-boxes](https://github.com/DevVedantk/Leetcode/tree/master/3074-apple-redistribution-into-boxes) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/DevVedantk/Leetcode/tree/master/3075-maximize-happiness-of-selected-children) |
@@ -259,6 +262,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0879-profitable-schemes](https://github.com/DevVedantk/Leetcode/tree/master/0879-profitable-schemes) |
 | [1458-max-dot-product-of-two-subsequences](https://github.com/DevVedantk/Leetcode/tree/master/1458-max-dot-product-of-two-subsequences) |
 | [1483-kth-ancestor-of-a-tree-node](https://github.com/DevVedantk/Leetcode/tree/master/1483-kth-ancestor-of-a-tree-node) |
+| [1578-minimum-time-to-make-rope-colorful](https://github.com/DevVedantk/Leetcode/tree/master/1578-minimum-time-to-make-rope-colorful) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/DevVedantk/Leetcode/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2407-longest-increasing-subsequence-ii](https://github.com/DevVedantk/Leetcode/tree/master/2407-longest-increasing-subsequence-ii) |
 | [2435-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/DevVedantk/Leetcode/tree/master/2435-paths-in-matrix-whose-sum-is-divisible-by-k) |
