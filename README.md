@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3165-maximum-sum-of-subsequence-with-non-adjacent-elements](https://github.com/DevVedantk/Leetcode/tree/master/3165-maximum-sum-of-subsequence-with-non-adjacent-elements) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/DevVedantk/Leetcode/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/DevVedantk/Leetcode/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
+| [3349-adjacent-increasing-subarrays-detection-i](https://github.com/DevVedantk/Leetcode/tree/master/3349-adjacent-increasing-subarrays-detection-i) |
 | [3477-fruits-into-baskets-ii](https://github.com/DevVedantk/Leetcode/tree/master/3477-fruits-into-baskets-ii) |
 | [3479-fruits-into-baskets-iii](https://github.com/DevVedantk/Leetcode/tree/master/3479-fruits-into-baskets-iii) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/DevVedantk/Leetcode/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
