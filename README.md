@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/DevVedantk/Leetcode/tree/master/0067-add-binary) |
+| [0514-freedom-trail](https://github.com/DevVedantk/Leetcode/tree/master/0514-freedom-trail) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/DevVedantk/Leetcode/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0955-delete-columns-to-make-sorted-ii](https://github.com/DevVedantk/Leetcode/tree/master/0955-delete-columns-to-make-sorted-ii) |
 | [1513-number-of-substrings-with-only-1s](https://github.com/DevVedantk/Leetcode/tree/master/1513-number-of-substrings-with-only-1s) |
@@ -136,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0111-minimum-depth-of-binary-tree](https://github.com/DevVedantk/Leetcode/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0310-minimum-height-trees](https://github.com/DevVedantk/Leetcode/tree/master/0310-minimum-height-trees) |
 | [0429-n-ary-tree-level-order-traversal](https://github.com/DevVedantk/Leetcode/tree/master/0429-n-ary-tree-level-order-traversal) |
+| [0514-freedom-trail](https://github.com/DevVedantk/Leetcode/tree/master/0514-freedom-trail) |
 | [0623-add-one-row-to-tree](https://github.com/DevVedantk/Leetcode/tree/master/0623-add-one-row-to-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/DevVedantk/Leetcode/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/DevVedantk/Leetcode/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
@@ -266,6 +268,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0085-maximal-rectangle](https://github.com/DevVedantk/Leetcode/tree/master/0085-maximal-rectangle) |
+| [0514-freedom-trail](https://github.com/DevVedantk/Leetcode/tree/master/0514-freedom-trail) |
 | [0552-student-attendance-record-ii](https://github.com/DevVedantk/Leetcode/tree/master/0552-student-attendance-record-ii) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/DevVedantk/Leetcode/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0834-sum-of-distances-in-tree](https://github.com/DevVedantk/Leetcode/tree/master/0834-sum-of-distances-in-tree) |
@@ -323,6 +326,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0110-balanced-binary-tree](https://github.com/DevVedantk/Leetcode/tree/master/0110-balanced-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/DevVedantk/Leetcode/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0310-minimum-height-trees](https://github.com/DevVedantk/Leetcode/tree/master/0310-minimum-height-trees) |
+| [0514-freedom-trail](https://github.com/DevVedantk/Leetcode/tree/master/0514-freedom-trail) |
 | [0623-add-one-row-to-tree](https://github.com/DevVedantk/Leetcode/tree/master/0623-add-one-row-to-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/DevVedantk/Leetcode/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0834-sum-of-distances-in-tree](https://github.com/DevVedantk/Leetcode/tree/master/0834-sum-of-distances-in-tree) |
