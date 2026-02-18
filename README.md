@@ -279,6 +279,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3165-maximum-sum-of-subsequence-with-non-adjacent-elements](https://github.com/DevVedantk/Leetcode/tree/master/3165-maximum-sum-of-subsequence-with-non-adjacent-elements) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/DevVedantk/Leetcode/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 | [3573-best-time-to-buy-and-sell-stock-v](https://github.com/DevVedantk/Leetcode/tree/master/3573-best-time-to-buy-and-sell-stock-v) |
+| [3704-count-no-zero-pairs-that-sum-to-n](https://github.com/DevVedantk/Leetcode/tree/master/3704-count-no-zero-pairs-that-sum-to-n) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/DevVedantk/Leetcode/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 | [3753-total-waviness-of-numbers-in-range-ii](https://github.com/DevVedantk/Leetcode/tree/master/3753-total-waviness-of-numbers-in-range-ii) |
 | [3791-number-of-balanced-integers-in-a-range](https://github.com/DevVedantk/Leetcode/tree/master/3791-number-of-balanced-integers-in-a-range) |
@@ -359,6 +360,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/DevVedantk/Leetcode/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/DevVedantk/Leetcode/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/DevVedantk/Leetcode/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
+| [3704-count-no-zero-pairs-that-sum-to-n](https://github.com/DevVedantk/Leetcode/tree/master/3704-count-no-zero-pairs-that-sum-to-n) |
 | [3732-maximum-product-of-three-elements-after-one-replacement](https://github.com/DevVedantk/Leetcode/tree/master/3732-maximum-product-of-three-elements-after-one-replacement) |
 | [3750-minimum-number-of-flips-to-reverse-binary-string](https://github.com/DevVedantk/Leetcode/tree/master/3750-minimum-number-of-flips-to-reverse-binary-string) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/DevVedantk/Leetcode/tree/master/3751-total-waviness-of-numbers-in-range-i) |
