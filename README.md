@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1200-minimum-absolute-difference](https://github.com/DevVedantk/Leetcode/tree/master/1200-minimum-absolute-difference) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/DevVedantk/Leetcode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1458-max-dot-product-of-two-subsequences](https://github.com/DevVedantk/Leetcode/tree/master/1458-max-dot-product-of-two-subsequences) |
+| [1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/DevVedantk/Leetcode/tree/master/1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1578-minimum-time-to-make-rope-colorful](https://github.com/DevVedantk/Leetcode/tree/master/1578-minimum-time-to-make-rope-colorful) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/DevVedantk/Leetcode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/DevVedantk/Leetcode/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
@@ -163,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0955-delete-columns-to-make-sorted-ii](https://github.com/DevVedantk/Leetcode/tree/master/0955-delete-columns-to-make-sorted-ii) |
 | [1382-balance-a-binary-search-tree](https://github.com/DevVedantk/Leetcode/tree/master/1382-balance-a-binary-search-tree) |
+| [1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/DevVedantk/Leetcode/tree/master/1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1578-minimum-time-to-make-rope-colorful](https://github.com/DevVedantk/Leetcode/tree/master/1578-minimum-time-to-make-rope-colorful) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/DevVedantk/Leetcode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [3074-apple-redistribution-into-boxes](https://github.com/DevVedantk/Leetcode/tree/master/3074-apple-redistribution-into-boxes) |
@@ -279,6 +281,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0879-profitable-schemes](https://github.com/DevVedantk/Leetcode/tree/master/0879-profitable-schemes) |
 | [1458-max-dot-product-of-two-subsequences](https://github.com/DevVedantk/Leetcode/tree/master/1458-max-dot-product-of-two-subsequences) |
 | [1483-kth-ancestor-of-a-tree-node](https://github.com/DevVedantk/Leetcode/tree/master/1483-kth-ancestor-of-a-tree-node) |
+| [1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/DevVedantk/Leetcode/tree/master/1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1578-minimum-time-to-make-rope-colorful](https://github.com/DevVedantk/Leetcode/tree/master/1578-minimum-time-to-make-rope-colorful) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/DevVedantk/Leetcode/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2407-longest-increasing-subsequence-ii](https://github.com/DevVedantk/Leetcode/tree/master/2407-longest-increasing-subsequence-ii) |
@@ -398,6 +401,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0085-maximal-rectangle](https://github.com/DevVedantk/Leetcode/tree/master/0085-maximal-rectangle) |
+| [1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/DevVedantk/Leetcode/tree/master/1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [3746-minimum-string-length-after-balanced-removals](https://github.com/DevVedantk/Leetcode/tree/master/3746-minimum-string-length-after-balanced-removals) |
 ## Matrix
 |  |
@@ -410,6 +414,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0085-maximal-rectangle](https://github.com/DevVedantk/Leetcode/tree/master/0085-maximal-rectangle) |
+| [1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/DevVedantk/Leetcode/tree/master/1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 ## Bit Manipulation
 |  |
 | ------- |
