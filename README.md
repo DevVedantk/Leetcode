@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/DevVedantk/Leetcode/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/DevVedantk/Leetcode/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/DevVedantk/Leetcode/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
+| [3291-minimum-number-of-valid-strings-to-form-target-i](https://github.com/DevVedantk/Leetcode/tree/master/3291-minimum-number-of-valid-strings-to-form-target-i) |
 | [3349-adjacent-increasing-subarrays-detection-i](https://github.com/DevVedantk/Leetcode/tree/master/3349-adjacent-increasing-subarrays-detection-i) |
 | [3350-adjacent-increasing-subarrays-detection-ii](https://github.com/DevVedantk/Leetcode/tree/master/3350-adjacent-increasing-subarrays-detection-ii) |
 | [3477-fruits-into-baskets-ii](https://github.com/DevVedantk/Leetcode/tree/master/3477-fruits-into-baskets-ii) |
@@ -71,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1483-kth-ancestor-of-a-tree-node](https://github.com/DevVedantk/Leetcode/tree/master/1483-kth-ancestor-of-a-tree-node) |
 | [2080-range-frequency-queries](https://github.com/DevVedantk/Leetcode/tree/master/2080-range-frequency-queries) |
 | [3117-minimum-sum-of-values-by-dividing-array](https://github.com/DevVedantk/Leetcode/tree/master/3117-minimum-sum-of-values-by-dividing-array) |
+| [3291-minimum-number-of-valid-strings-to-form-target-i](https://github.com/DevVedantk/Leetcode/tree/master/3291-minimum-number-of-valid-strings-to-form-target-i) |
 | [3350-adjacent-increasing-subarrays-detection-ii](https://github.com/DevVedantk/Leetcode/tree/master/3350-adjacent-increasing-subarrays-detection-ii) |
 | [3477-fruits-into-baskets-ii](https://github.com/DevVedantk/Leetcode/tree/master/3477-fruits-into-baskets-ii) |
 | [3479-fruits-into-baskets-iii](https://github.com/DevVedantk/Leetcode/tree/master/3479-fruits-into-baskets-iii) |
@@ -87,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1578-minimum-time-to-make-rope-colorful](https://github.com/DevVedantk/Leetcode/tree/master/1578-minimum-time-to-make-rope-colorful) |
 | [2999-count-the-number-of-powerful-integers](https://github.com/DevVedantk/Leetcode/tree/master/2999-count-the-number-of-powerful-integers) |
 | [3234-count-the-number-of-substrings-with-dominant-ones](https://github.com/DevVedantk/Leetcode/tree/master/3234-count-the-number-of-substrings-with-dominant-ones) |
+| [3291-minimum-number-of-valid-strings-to-form-target-i](https://github.com/DevVedantk/Leetcode/tree/master/3291-minimum-number-of-valid-strings-to-form-target-i) |
 | [3606-coupon-code-validator](https://github.com/DevVedantk/Leetcode/tree/master/3606-coupon-code-validator) |
 | [3713-longest-balanced-substring-i](https://github.com/DevVedantk/Leetcode/tree/master/3713-longest-balanced-substring-i) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/DevVedantk/Leetcode/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
@@ -235,6 +238,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2407-longest-increasing-subsequence-ii](https://github.com/DevVedantk/Leetcode/tree/master/2407-longest-increasing-subsequence-ii) |
 | [3117-minimum-sum-of-values-by-dividing-array](https://github.com/DevVedantk/Leetcode/tree/master/3117-minimum-sum-of-values-by-dividing-array) |
 | [3165-maximum-sum-of-subsequence-with-non-adjacent-elements](https://github.com/DevVedantk/Leetcode/tree/master/3165-maximum-sum-of-subsequence-with-non-adjacent-elements) |
+| [3291-minimum-number-of-valid-strings-to-form-target-i](https://github.com/DevVedantk/Leetcode/tree/master/3291-minimum-number-of-valid-strings-to-form-target-i) |
 | [3477-fruits-into-baskets-ii](https://github.com/DevVedantk/Leetcode/tree/master/3477-fruits-into-baskets-ii) |
 | [3479-fruits-into-baskets-iii](https://github.com/DevVedantk/Leetcode/tree/master/3479-fruits-into-baskets-iii) |
 | [3719-longest-balanced-subarray-i](https://github.com/DevVedantk/Leetcode/tree/master/3719-longest-balanced-subarray-i) |
@@ -289,6 +293,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2999-count-the-number-of-powerful-integers](https://github.com/DevVedantk/Leetcode/tree/master/2999-count-the-number-of-powerful-integers) |
 | [3117-minimum-sum-of-values-by-dividing-array](https://github.com/DevVedantk/Leetcode/tree/master/3117-minimum-sum-of-values-by-dividing-array) |
 | [3165-maximum-sum-of-subsequence-with-non-adjacent-elements](https://github.com/DevVedantk/Leetcode/tree/master/3165-maximum-sum-of-subsequence-with-non-adjacent-elements) |
+| [3291-minimum-number-of-valid-strings-to-form-target-i](https://github.com/DevVedantk/Leetcode/tree/master/3291-minimum-number-of-valid-strings-to-form-target-i) |
 | [3490-count-beautiful-numbers](https://github.com/DevVedantk/Leetcode/tree/master/3490-count-beautiful-numbers) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/DevVedantk/Leetcode/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 | [3573-best-time-to-buy-and-sell-stock-v](https://github.com/DevVedantk/Leetcode/tree/master/3573-best-time-to-buy-and-sell-stock-v) |
@@ -453,4 +458,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/DevVedantk/Leetcode/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
+## Trie
+|  |
+| ------- |
+| [3291-minimum-number-of-valid-strings-to-form-target-i](https://github.com/DevVedantk/Leetcode/tree/master/3291-minimum-number-of-valid-strings-to-form-target-i) |
+## Rolling Hash
+|  |
+| ------- |
+| [3291-minimum-number-of-valid-strings-to-form-target-i](https://github.com/DevVedantk/Leetcode/tree/master/3291-minimum-number-of-valid-strings-to-form-target-i) |
+## String Matching
+|  |
+| ------- |
+| [3291-minimum-number-of-valid-strings-to-form-target-i](https://github.com/DevVedantk/Leetcode/tree/master/3291-minimum-number-of-valid-strings-to-form-target-i) |
+## Hash Function
+|  |
+| ------- |
+| [3291-minimum-number-of-valid-strings-to-form-target-i](https://github.com/DevVedantk/Leetcode/tree/master/3291-minimum-number-of-valid-strings-to-form-target-i) |
 <!---LeetCode Topics End-->
