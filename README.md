@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3291-minimum-number-of-valid-strings-to-form-target-i](https://github.com/DevVedantk/Leetcode/tree/master/3291-minimum-number-of-valid-strings-to-form-target-i) |
 | [3349-adjacent-increasing-subarrays-detection-i](https://github.com/DevVedantk/Leetcode/tree/master/3349-adjacent-increasing-subarrays-detection-i) |
 | [3350-adjacent-increasing-subarrays-detection-ii](https://github.com/DevVedantk/Leetcode/tree/master/3350-adjacent-increasing-subarrays-detection-ii) |
+| [3354-make-array-elements-equal-to-zero](https://github.com/DevVedantk/Leetcode/tree/master/3354-make-array-elements-equal-to-zero) |
 | [3477-fruits-into-baskets-ii](https://github.com/DevVedantk/Leetcode/tree/master/3477-fruits-into-baskets-ii) |
 | [3479-fruits-into-baskets-iii](https://github.com/DevVedantk/Leetcode/tree/master/3479-fruits-into-baskets-iii) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/DevVedantk/Leetcode/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
@@ -106,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0067-add-binary](https://github.com/DevVedantk/Leetcode/tree/master/0067-add-binary) |
 | [2257-count-unguarded-cells-in-the-grid](https://github.com/DevVedantk/Leetcode/tree/master/2257-count-unguarded-cells-in-the-grid) |
+| [3354-make-array-elements-equal-to-zero](https://github.com/DevVedantk/Leetcode/tree/master/3354-make-array-elements-equal-to-zero) |
 | [3477-fruits-into-baskets-ii](https://github.com/DevVedantk/Leetcode/tree/master/3477-fruits-into-baskets-ii) |
 | [3775-reverse-words-with-same-vowel-count](https://github.com/DevVedantk/Leetcode/tree/master/3775-reverse-words-with-same-vowel-count) |
 | [3819-rotate-non-negative-elements](https://github.com/DevVedantk/Leetcode/tree/master/3819-rotate-non-negative-elements) |
@@ -254,6 +256,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [3354-make-array-elements-equal-to-zero](https://github.com/DevVedantk/Leetcode/tree/master/3354-make-array-elements-equal-to-zero) |
 | [3719-longest-balanced-subarray-i](https://github.com/DevVedantk/Leetcode/tree/master/3719-longest-balanced-subarray-i) |
 | [3721-longest-balanced-subarray-ii](https://github.com/DevVedantk/Leetcode/tree/master/3721-longest-balanced-subarray-ii) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/DevVedantk/Leetcode/tree/master/3737-count-subarrays-with-majority-element-i) |
