@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2049-count-nodes-with-the-highest-score](https://github.com/DevVedantk/Leetcode/tree/master/2049-count-nodes-with-the-highest-score) |
 | [2080-range-frequency-queries](https://github.com/DevVedantk/Leetcode/tree/master/2080-range-frequency-queries) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/DevVedantk/Leetcode/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
+| [2227-encrypt-and-decrypt-strings](https://github.com/DevVedantk/Leetcode/tree/master/2227-encrypt-and-decrypt-strings) |
 | [2257-count-unguarded-cells-in-the-grid](https://github.com/DevVedantk/Leetcode/tree/master/2257-count-unguarded-cells-in-the-grid) |
 | [2407-longest-increasing-subsequence-ii](https://github.com/DevVedantk/Leetcode/tree/master/2407-longest-increasing-subsequence-ii) |
 | [2435-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/DevVedantk/Leetcode/tree/master/2435-paths-in-matrix-whose-sum-is-divisible-by-k) |
@@ -88,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0955-delete-columns-to-make-sorted-ii](https://github.com/DevVedantk/Leetcode/tree/master/0955-delete-columns-to-make-sorted-ii) |
 | [1513-number-of-substrings-with-only-1s](https://github.com/DevVedantk/Leetcode/tree/master/1513-number-of-substrings-with-only-1s) |
 | [1578-minimum-time-to-make-rope-colorful](https://github.com/DevVedantk/Leetcode/tree/master/1578-minimum-time-to-make-rope-colorful) |
+| [2227-encrypt-and-decrypt-strings](https://github.com/DevVedantk/Leetcode/tree/master/2227-encrypt-and-decrypt-strings) |
 | [2999-count-the-number-of-powerful-integers](https://github.com/DevVedantk/Leetcode/tree/master/2999-count-the-number-of-powerful-integers) |
 | [3234-count-the-number-of-substrings-with-dominant-ones](https://github.com/DevVedantk/Leetcode/tree/master/3234-count-the-number-of-substrings-with-dominant-ones) |
 | [3291-minimum-number-of-valid-strings-to-form-target-i](https://github.com/DevVedantk/Leetcode/tree/master/3291-minimum-number-of-valid-strings-to-form-target-i) |
@@ -200,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/DevVedantk/Leetcode/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/DevVedantk/Leetcode/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [2080-range-frequency-queries](https://github.com/DevVedantk/Leetcode/tree/master/2080-range-frequency-queries) |
+| [2227-encrypt-and-decrypt-strings](https://github.com/DevVedantk/Leetcode/tree/master/2227-encrypt-and-decrypt-strings) |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/DevVedantk/Leetcode/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/DevVedantk/Leetcode/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3606-coupon-code-validator](https://github.com/DevVedantk/Leetcode/tree/master/3606-coupon-code-validator) |
@@ -277,6 +280,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0307-range-sum-query-mutable](https://github.com/DevVedantk/Leetcode/tree/master/0307-range-sum-query-mutable) |
 | [1483-kth-ancestor-of-a-tree-node](https://github.com/DevVedantk/Leetcode/tree/master/1483-kth-ancestor-of-a-tree-node) |
 | [2080-range-frequency-queries](https://github.com/DevVedantk/Leetcode/tree/master/2080-range-frequency-queries) |
+| [2227-encrypt-and-decrypt-strings](https://github.com/DevVedantk/Leetcode/tree/master/2227-encrypt-and-decrypt-strings) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -466,6 +470,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Trie
 |  |
 | ------- |
+| [2227-encrypt-and-decrypt-strings](https://github.com/DevVedantk/Leetcode/tree/master/2227-encrypt-and-decrypt-strings) |
 | [3291-minimum-number-of-valid-strings-to-form-target-i](https://github.com/DevVedantk/Leetcode/tree/master/3291-minimum-number-of-valid-strings-to-form-target-i) |
 ## Rolling Hash
 |  |
