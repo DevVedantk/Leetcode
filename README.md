@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2846-minimum-edge-weight-equilibrium-queries-in-a-tree](https://github.com/DevVedantk/Leetcode/tree/master/2846-minimum-edge-weight-equilibrium-queries-in-a-tree) |
 | [3074-apple-redistribution-into-boxes](https://github.com/DevVedantk/Leetcode/tree/master/3074-apple-redistribution-into-boxes) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/DevVedantk/Leetcode/tree/master/3075-maximize-happiness-of-selected-children) |
+| [3093-longest-common-suffix-queries](https://github.com/DevVedantk/Leetcode/tree/master/3093-longest-common-suffix-queries) |
 | [3117-minimum-sum-of-values-by-dividing-array](https://github.com/DevVedantk/Leetcode/tree/master/3117-minimum-sum-of-values-by-dividing-array) |
 | [3165-maximum-sum-of-subsequence-with-non-adjacent-elements](https://github.com/DevVedantk/Leetcode/tree/master/3165-maximum-sum-of-subsequence-with-non-adjacent-elements) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/DevVedantk/Leetcode/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
@@ -95,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1578-minimum-time-to-make-rope-colorful](https://github.com/DevVedantk/Leetcode/tree/master/1578-minimum-time-to-make-rope-colorful) |
 | [2227-encrypt-and-decrypt-strings](https://github.com/DevVedantk/Leetcode/tree/master/2227-encrypt-and-decrypt-strings) |
 | [2999-count-the-number-of-powerful-integers](https://github.com/DevVedantk/Leetcode/tree/master/2999-count-the-number-of-powerful-integers) |
+| [3093-longest-common-suffix-queries](https://github.com/DevVedantk/Leetcode/tree/master/3093-longest-common-suffix-queries) |
 | [3234-count-the-number-of-substrings-with-dominant-ones](https://github.com/DevVedantk/Leetcode/tree/master/3234-count-the-number-of-substrings-with-dominant-ones) |
 | [3291-minimum-number-of-valid-strings-to-form-target-i](https://github.com/DevVedantk/Leetcode/tree/master/3291-minimum-number-of-valid-strings-to-form-target-i) |
 | [3597-partition-string](https://github.com/DevVedantk/Leetcode/tree/master/3597-partition-string) |
@@ -483,6 +485,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0745-prefix-and-suffix-search](https://github.com/DevVedantk/Leetcode/tree/master/0745-prefix-and-suffix-search) |
 | [1032-stream-of-characters](https://github.com/DevVedantk/Leetcode/tree/master/1032-stream-of-characters) |
 | [2227-encrypt-and-decrypt-strings](https://github.com/DevVedantk/Leetcode/tree/master/2227-encrypt-and-decrypt-strings) |
+| [3093-longest-common-suffix-queries](https://github.com/DevVedantk/Leetcode/tree/master/3093-longest-common-suffix-queries) |
 | [3291-minimum-number-of-valid-strings-to-form-target-i](https://github.com/DevVedantk/Leetcode/tree/master/3291-minimum-number-of-valid-strings-to-form-target-i) |
 | [3597-partition-string](https://github.com/DevVedantk/Leetcode/tree/master/3597-partition-string) |
 ## Rolling Hash
