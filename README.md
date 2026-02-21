@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0955-delete-columns-to-make-sorted-ii](https://github.com/DevVedantk/Leetcode/tree/master/0955-delete-columns-to-make-sorted-ii) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/DevVedantk/Leetcode/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/DevVedantk/Leetcode/tree/master/1018-binary-prefix-divisible-by-5) |
+| [1032-stream-of-characters](https://github.com/DevVedantk/Leetcode/tree/master/1032-stream-of-characters) |
 | [1200-minimum-absolute-difference](https://github.com/DevVedantk/Leetcode/tree/master/1200-minimum-absolute-difference) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/DevVedantk/Leetcode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1458-max-dot-product-of-two-subsequences](https://github.com/DevVedantk/Leetcode/tree/master/1458-max-dot-product-of-two-subsequences) |
@@ -89,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/DevVedantk/Leetcode/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0745-prefix-and-suffix-search](https://github.com/DevVedantk/Leetcode/tree/master/0745-prefix-and-suffix-search) |
 | [0955-delete-columns-to-make-sorted-ii](https://github.com/DevVedantk/Leetcode/tree/master/0955-delete-columns-to-make-sorted-ii) |
+| [1032-stream-of-characters](https://github.com/DevVedantk/Leetcode/tree/master/1032-stream-of-characters) |
 | [1513-number-of-substrings-with-only-1s](https://github.com/DevVedantk/Leetcode/tree/master/1513-number-of-substrings-with-only-1s) |
 | [1578-minimum-time-to-make-rope-colorful](https://github.com/DevVedantk/Leetcode/tree/master/1578-minimum-time-to-make-rope-colorful) |
 | [2227-encrypt-and-decrypt-strings](https://github.com/DevVedantk/Leetcode/tree/master/2227-encrypt-and-decrypt-strings) |
@@ -285,6 +287,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0307-range-sum-query-mutable](https://github.com/DevVedantk/Leetcode/tree/master/0307-range-sum-query-mutable) |
 | [0745-prefix-and-suffix-search](https://github.com/DevVedantk/Leetcode/tree/master/0745-prefix-and-suffix-search) |
+| [1032-stream-of-characters](https://github.com/DevVedantk/Leetcode/tree/master/1032-stream-of-characters) |
 | [1483-kth-ancestor-of-a-tree-node](https://github.com/DevVedantk/Leetcode/tree/master/1483-kth-ancestor-of-a-tree-node) |
 | [2080-range-frequency-queries](https://github.com/DevVedantk/Leetcode/tree/master/2080-range-frequency-queries) |
 | [2227-encrypt-and-decrypt-strings](https://github.com/DevVedantk/Leetcode/tree/master/2227-encrypt-and-decrypt-strings) |
@@ -478,6 +481,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0745-prefix-and-suffix-search](https://github.com/DevVedantk/Leetcode/tree/master/0745-prefix-and-suffix-search) |
+| [1032-stream-of-characters](https://github.com/DevVedantk/Leetcode/tree/master/1032-stream-of-characters) |
 | [2227-encrypt-and-decrypt-strings](https://github.com/DevVedantk/Leetcode/tree/master/2227-encrypt-and-decrypt-strings) |
 | [3291-minimum-number-of-valid-strings-to-form-target-i](https://github.com/DevVedantk/Leetcode/tree/master/3291-minimum-number-of-valid-strings-to-form-target-i) |
 | [3597-partition-string](https://github.com/DevVedantk/Leetcode/tree/master/3597-partition-string) |
@@ -493,4 +497,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3291-minimum-number-of-valid-strings-to-form-target-i](https://github.com/DevVedantk/Leetcode/tree/master/3291-minimum-number-of-valid-strings-to-form-target-i) |
+## Data Stream
+|  |
+| ------- |
+| [1032-stream-of-characters](https://github.com/DevVedantk/Leetcode/tree/master/1032-stream-of-characters) |
 <!---LeetCode Topics End-->
