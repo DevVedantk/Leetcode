@@ -396,6 +396,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0066-plus-one](https://github.com/DevVedantk/Leetcode/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/DevVedantk/Leetcode/tree/master/0067-add-binary) |
+| [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/DevVedantk/Leetcode/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [1513-number-of-substrings-with-only-1s](https://github.com/DevVedantk/Leetcode/tree/master/1513-number-of-substrings-with-only-1s) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/DevVedantk/Leetcode/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2999-count-the-number-of-powerful-integers](https://github.com/DevVedantk/Leetcode/tree/master/2999-count-the-number-of-powerful-integers) |
@@ -449,6 +450,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/DevVedantk/Leetcode/tree/master/0067-add-binary) |
 | [0190-reverse-bits](https://github.com/DevVedantk/Leetcode/tree/master/0190-reverse-bits) |
 | [0693-binary-number-with-alternating-bits](https://github.com/DevVedantk/Leetcode/tree/master/0693-binary-number-with-alternating-bits) |
+| [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/DevVedantk/Leetcode/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/DevVedantk/Leetcode/tree/master/1018-binary-prefix-divisible-by-5) |
 | [1483-kth-ancestor-of-a-tree-node](https://github.com/DevVedantk/Leetcode/tree/master/1483-kth-ancestor-of-a-tree-node) |
 | [3117-minimum-sum-of-values-by-dividing-array](https://github.com/DevVedantk/Leetcode/tree/master/3117-minimum-sum-of-values-by-dividing-array) |
