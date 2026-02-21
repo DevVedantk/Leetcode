@@ -95,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2999-count-the-number-of-powerful-integers](https://github.com/DevVedantk/Leetcode/tree/master/2999-count-the-number-of-powerful-integers) |
 | [3234-count-the-number-of-substrings-with-dominant-ones](https://github.com/DevVedantk/Leetcode/tree/master/3234-count-the-number-of-substrings-with-dominant-ones) |
 | [3291-minimum-number-of-valid-strings-to-form-target-i](https://github.com/DevVedantk/Leetcode/tree/master/3291-minimum-number-of-valid-strings-to-form-target-i) |
+| [3597-partition-string](https://github.com/DevVedantk/Leetcode/tree/master/3597-partition-string) |
 | [3606-coupon-code-validator](https://github.com/DevVedantk/Leetcode/tree/master/3606-coupon-code-validator) |
 | [3713-longest-balanced-substring-i](https://github.com/DevVedantk/Leetcode/tree/master/3713-longest-balanced-substring-i) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/DevVedantk/Leetcode/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
@@ -113,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2257-count-unguarded-cells-in-the-grid](https://github.com/DevVedantk/Leetcode/tree/master/2257-count-unguarded-cells-in-the-grid) |
 | [3354-make-array-elements-equal-to-zero](https://github.com/DevVedantk/Leetcode/tree/master/3354-make-array-elements-equal-to-zero) |
 | [3477-fruits-into-baskets-ii](https://github.com/DevVedantk/Leetcode/tree/master/3477-fruits-into-baskets-ii) |
+| [3597-partition-string](https://github.com/DevVedantk/Leetcode/tree/master/3597-partition-string) |
 | [3775-reverse-words-with-same-vowel-count](https://github.com/DevVedantk/Leetcode/tree/master/3775-reverse-words-with-same-vowel-count) |
 | [3819-rotate-non-negative-elements](https://github.com/DevVedantk/Leetcode/tree/master/3819-rotate-non-negative-elements) |
 ## Tree
@@ -208,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2227-encrypt-and-decrypt-strings](https://github.com/DevVedantk/Leetcode/tree/master/2227-encrypt-and-decrypt-strings) |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/DevVedantk/Leetcode/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/DevVedantk/Leetcode/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
+| [3597-partition-string](https://github.com/DevVedantk/Leetcode/tree/master/3597-partition-string) |
 | [3606-coupon-code-validator](https://github.com/DevVedantk/Leetcode/tree/master/3606-coupon-code-validator) |
 | [3713-longest-balanced-substring-i](https://github.com/DevVedantk/Leetcode/tree/master/3713-longest-balanced-substring-i) |
 | [3719-longest-balanced-subarray-i](https://github.com/DevVedantk/Leetcode/tree/master/3719-longest-balanced-subarray-i) |
@@ -477,6 +480,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0745-prefix-and-suffix-search](https://github.com/DevVedantk/Leetcode/tree/master/0745-prefix-and-suffix-search) |
 | [2227-encrypt-and-decrypt-strings](https://github.com/DevVedantk/Leetcode/tree/master/2227-encrypt-and-decrypt-strings) |
 | [3291-minimum-number-of-valid-strings-to-form-target-i](https://github.com/DevVedantk/Leetcode/tree/master/3291-minimum-number-of-valid-strings-to-form-target-i) |
+| [3597-partition-string](https://github.com/DevVedantk/Leetcode/tree/master/3597-partition-string) |
 ## Rolling Hash
 |  |
 | ------- |
