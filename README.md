@@ -91,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/DevVedantk/Leetcode/tree/master/0067-add-binary) |
+| [0211-design-add-and-search-words-data-structure](https://github.com/DevVedantk/Leetcode/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0514-freedom-trail](https://github.com/DevVedantk/Leetcode/tree/master/0514-freedom-trail) |
 | [0648-replace-words](https://github.com/DevVedantk/Leetcode/tree/master/0648-replace-words) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/DevVedantk/Leetcode/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
@@ -297,6 +298,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0211-design-add-and-search-words-data-structure](https://github.com/DevVedantk/Leetcode/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0307-range-sum-query-mutable](https://github.com/DevVedantk/Leetcode/tree/master/0307-range-sum-query-mutable) |
 | [0745-prefix-and-suffix-search](https://github.com/DevVedantk/Leetcode/tree/master/0745-prefix-and-suffix-search) |
 | [1032-stream-of-characters](https://github.com/DevVedantk/Leetcode/tree/master/1032-stream-of-characters) |
@@ -366,6 +368,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0110-balanced-binary-tree](https://github.com/DevVedantk/Leetcode/tree/master/0110-balanced-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/DevVedantk/Leetcode/tree/master/0111-minimum-depth-of-binary-tree) |
+| [0211-design-add-and-search-words-data-structure](https://github.com/DevVedantk/Leetcode/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0310-minimum-height-trees](https://github.com/DevVedantk/Leetcode/tree/master/0310-minimum-height-trees) |
 | [0514-freedom-trail](https://github.com/DevVedantk/Leetcode/tree/master/0514-freedom-trail) |
 | [0623-add-one-row-to-tree](https://github.com/DevVedantk/Leetcode/tree/master/0623-add-one-row-to-tree) |
@@ -497,6 +500,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Trie
 |  |
 | ------- |
+| [0211-design-add-and-search-words-data-structure](https://github.com/DevVedantk/Leetcode/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/DevVedantk/Leetcode/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0648-replace-words](https://github.com/DevVedantk/Leetcode/tree/master/0648-replace-words) |
 | [0745-prefix-and-suffix-search](https://github.com/DevVedantk/Leetcode/tree/master/0745-prefix-and-suffix-search) |
