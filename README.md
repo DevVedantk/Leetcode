@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2049-count-nodes-with-the-highest-score](https://github.com/DevVedantk/Leetcode/tree/master/2049-count-nodes-with-the-highest-score) |
 | [2080-range-frequency-queries](https://github.com/DevVedantk/Leetcode/tree/master/2080-range-frequency-queries) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/DevVedantk/Leetcode/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
+| [2125-number-of-laser-beams-in-a-bank](https://github.com/DevVedantk/Leetcode/tree/master/2125-number-of-laser-beams-in-a-bank) |
 | [2227-encrypt-and-decrypt-strings](https://github.com/DevVedantk/Leetcode/tree/master/2227-encrypt-and-decrypt-strings) |
 | [2257-count-unguarded-cells-in-the-grid](https://github.com/DevVedantk/Leetcode/tree/master/2257-count-unguarded-cells-in-the-grid) |
 | [2407-longest-increasing-subsequence-ii](https://github.com/DevVedantk/Leetcode/tree/master/2407-longest-increasing-subsequence-ii) |
@@ -96,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1032-stream-of-characters](https://github.com/DevVedantk/Leetcode/tree/master/1032-stream-of-characters) |
 | [1513-number-of-substrings-with-only-1s](https://github.com/DevVedantk/Leetcode/tree/master/1513-number-of-substrings-with-only-1s) |
 | [1578-minimum-time-to-make-rope-colorful](https://github.com/DevVedantk/Leetcode/tree/master/1578-minimum-time-to-make-rope-colorful) |
+| [2125-number-of-laser-beams-in-a-bank](https://github.com/DevVedantk/Leetcode/tree/master/2125-number-of-laser-beams-in-a-bank) |
 | [2227-encrypt-and-decrypt-strings](https://github.com/DevVedantk/Leetcode/tree/master/2227-encrypt-and-decrypt-strings) |
 | [2999-count-the-number-of-powerful-integers](https://github.com/DevVedantk/Leetcode/tree/master/2999-count-the-number-of-powerful-integers) |
 | [3093-longest-common-suffix-queries](https://github.com/DevVedantk/Leetcode/tree/master/3093-longest-common-suffix-queries) |
@@ -399,6 +401,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/DevVedantk/Leetcode/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [1513-number-of-substrings-with-only-1s](https://github.com/DevVedantk/Leetcode/tree/master/1513-number-of-substrings-with-only-1s) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/DevVedantk/Leetcode/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
+| [2125-number-of-laser-beams-in-a-bank](https://github.com/DevVedantk/Leetcode/tree/master/2125-number-of-laser-beams-in-a-bank) |
 | [2999-count-the-number-of-powerful-integers](https://github.com/DevVedantk/Leetcode/tree/master/2999-count-the-number-of-powerful-integers) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/DevVedantk/Leetcode/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/DevVedantk/Leetcode/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
@@ -437,6 +440,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0085-maximal-rectangle](https://github.com/DevVedantk/Leetcode/tree/master/0085-maximal-rectangle) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/DevVedantk/Leetcode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
+| [2125-number-of-laser-beams-in-a-bank](https://github.com/DevVedantk/Leetcode/tree/master/2125-number-of-laser-beams-in-a-bank) |
 | [2257-count-unguarded-cells-in-the-grid](https://github.com/DevVedantk/Leetcode/tree/master/2257-count-unguarded-cells-in-the-grid) |
 | [2435-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/DevVedantk/Leetcode/tree/master/2435-paths-in-matrix-whose-sum-is-divisible-by-k) |
 ## Monotonic Stack
