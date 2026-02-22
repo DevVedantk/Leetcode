@@ -91,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/DevVedantk/Leetcode/tree/master/0067-add-binary) |
+| [0208-implement-trie-prefix-tree](https://github.com/DevVedantk/Leetcode/tree/master/0208-implement-trie-prefix-tree) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/DevVedantk/Leetcode/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0514-freedom-trail](https://github.com/DevVedantk/Leetcode/tree/master/0514-freedom-trail) |
 | [0648-replace-words](https://github.com/DevVedantk/Leetcode/tree/master/0648-replace-words) |
@@ -214,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0208-implement-trie-prefix-tree](https://github.com/DevVedantk/Leetcode/tree/master/0208-implement-trie-prefix-tree) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/DevVedantk/Leetcode/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0648-replace-words](https://github.com/DevVedantk/Leetcode/tree/master/0648-replace-words) |
 | [0745-prefix-and-suffix-search](https://github.com/DevVedantk/Leetcode/tree/master/0745-prefix-and-suffix-search) |
@@ -298,6 +300,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0208-implement-trie-prefix-tree](https://github.com/DevVedantk/Leetcode/tree/master/0208-implement-trie-prefix-tree) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/DevVedantk/Leetcode/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0307-range-sum-query-mutable](https://github.com/DevVedantk/Leetcode/tree/master/0307-range-sum-query-mutable) |
 | [0745-prefix-and-suffix-search](https://github.com/DevVedantk/Leetcode/tree/master/0745-prefix-and-suffix-search) |
@@ -500,6 +503,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Trie
 |  |
 | ------- |
+| [0208-implement-trie-prefix-tree](https://github.com/DevVedantk/Leetcode/tree/master/0208-implement-trie-prefix-tree) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/DevVedantk/Leetcode/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/DevVedantk/Leetcode/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0648-replace-words](https://github.com/DevVedantk/Leetcode/tree/master/0648-replace-words) |
