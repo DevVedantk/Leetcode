@@ -110,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2223-sum-of-scores-of-built-strings](https://github.com/DevVedantk/Leetcode/tree/master/2223-sum-of-scores-of-built-strings) |
 | [2227-encrypt-and-decrypt-strings](https://github.com/DevVedantk/Leetcode/tree/master/2227-encrypt-and-decrypt-strings) |
 | [2999-count-the-number-of-powerful-integers](https://github.com/DevVedantk/Leetcode/tree/master/2999-count-the-number-of-powerful-integers) |
+| [3031-minimum-time-to-revert-word-to-initial-state-ii](https://github.com/DevVedantk/Leetcode/tree/master/3031-minimum-time-to-revert-word-to-initial-state-ii) |
 | [3093-longest-common-suffix-queries](https://github.com/DevVedantk/Leetcode/tree/master/3093-longest-common-suffix-queries) |
 | [3234-count-the-number-of-substrings-with-dominant-ones](https://github.com/DevVedantk/Leetcode/tree/master/3234-count-the-number-of-substrings-with-dominant-ones) |
 | [3291-minimum-number-of-valid-strings-to-form-target-i](https://github.com/DevVedantk/Leetcode/tree/master/3291-minimum-number-of-valid-strings-to-form-target-i) |
@@ -536,11 +537,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/DevVedantk/Leetcode/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [2223-sum-of-scores-of-built-strings](https://github.com/DevVedantk/Leetcode/tree/master/2223-sum-of-scores-of-built-strings) |
 | [2261-k-divisible-elements-subarrays](https://github.com/DevVedantk/Leetcode/tree/master/2261-k-divisible-elements-subarrays) |
+| [3031-minimum-time-to-revert-word-to-initial-state-ii](https://github.com/DevVedantk/Leetcode/tree/master/3031-minimum-time-to-revert-word-to-initial-state-ii) |
 | [3291-minimum-number-of-valid-strings-to-form-target-i](https://github.com/DevVedantk/Leetcode/tree/master/3291-minimum-number-of-valid-strings-to-form-target-i) |
 ## String Matching
 |  |
 | ------- |
 | [2223-sum-of-scores-of-built-strings](https://github.com/DevVedantk/Leetcode/tree/master/2223-sum-of-scores-of-built-strings) |
+| [3031-minimum-time-to-revert-word-to-initial-state-ii](https://github.com/DevVedantk/Leetcode/tree/master/3031-minimum-time-to-revert-word-to-initial-state-ii) |
 | [3291-minimum-number-of-valid-strings-to-form-target-i](https://github.com/DevVedantk/Leetcode/tree/master/3291-minimum-number-of-valid-strings-to-form-target-i) |
 ## Hash Function
 |  |
@@ -548,6 +551,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/DevVedantk/Leetcode/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [2223-sum-of-scores-of-built-strings](https://github.com/DevVedantk/Leetcode/tree/master/2223-sum-of-scores-of-built-strings) |
 | [2261-k-divisible-elements-subarrays](https://github.com/DevVedantk/Leetcode/tree/master/2261-k-divisible-elements-subarrays) |
+| [3031-minimum-time-to-revert-word-to-initial-state-ii](https://github.com/DevVedantk/Leetcode/tree/master/3031-minimum-time-to-revert-word-to-initial-state-ii) |
 | [3291-minimum-number-of-valid-strings-to-form-target-i](https://github.com/DevVedantk/Leetcode/tree/master/3291-minimum-number-of-valid-strings-to-form-target-i) |
 ## Data Stream
 |  |
