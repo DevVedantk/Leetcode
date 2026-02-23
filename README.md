@@ -81,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/DevVedantk/Leetcode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1483-kth-ancestor-of-a-tree-node](https://github.com/DevVedantk/Leetcode/tree/master/1483-kth-ancestor-of-a-tree-node) |
 | [2080-range-frequency-queries](https://github.com/DevVedantk/Leetcode/tree/master/2080-range-frequency-queries) |
+| [2223-sum-of-scores-of-built-strings](https://github.com/DevVedantk/Leetcode/tree/master/2223-sum-of-scores-of-built-strings) |
 | [3117-minimum-sum-of-values-by-dividing-array](https://github.com/DevVedantk/Leetcode/tree/master/3117-minimum-sum-of-values-by-dividing-array) |
 | [3291-minimum-number-of-valid-strings-to-form-target-i](https://github.com/DevVedantk/Leetcode/tree/master/3291-minimum-number-of-valid-strings-to-form-target-i) |
 | [3350-adjacent-increasing-subarrays-detection-ii](https://github.com/DevVedantk/Leetcode/tree/master/3350-adjacent-increasing-subarrays-detection-ii) |
@@ -105,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1513-number-of-substrings-with-only-1s](https://github.com/DevVedantk/Leetcode/tree/master/1513-number-of-substrings-with-only-1s) |
 | [1578-minimum-time-to-make-rope-colorful](https://github.com/DevVedantk/Leetcode/tree/master/1578-minimum-time-to-make-rope-colorful) |
 | [2125-number-of-laser-beams-in-a-bank](https://github.com/DevVedantk/Leetcode/tree/master/2125-number-of-laser-beams-in-a-bank) |
+| [2223-sum-of-scores-of-built-strings](https://github.com/DevVedantk/Leetcode/tree/master/2223-sum-of-scores-of-built-strings) |
 | [2227-encrypt-and-decrypt-strings](https://github.com/DevVedantk/Leetcode/tree/master/2227-encrypt-and-decrypt-strings) |
 | [2999-count-the-number-of-powerful-integers](https://github.com/DevVedantk/Leetcode/tree/master/2999-count-the-number-of-powerful-integers) |
 | [3093-longest-common-suffix-queries](https://github.com/DevVedantk/Leetcode/tree/master/3093-longest-common-suffix-queries) |
@@ -528,15 +530,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/DevVedantk/Leetcode/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
+| [2223-sum-of-scores-of-built-strings](https://github.com/DevVedantk/Leetcode/tree/master/2223-sum-of-scores-of-built-strings) |
 | [3291-minimum-number-of-valid-strings-to-form-target-i](https://github.com/DevVedantk/Leetcode/tree/master/3291-minimum-number-of-valid-strings-to-form-target-i) |
 ## String Matching
 |  |
 | ------- |
+| [2223-sum-of-scores-of-built-strings](https://github.com/DevVedantk/Leetcode/tree/master/2223-sum-of-scores-of-built-strings) |
 | [3291-minimum-number-of-valid-strings-to-form-target-i](https://github.com/DevVedantk/Leetcode/tree/master/3291-minimum-number-of-valid-strings-to-form-target-i) |
 ## Hash Function
 |  |
 | ------- |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/DevVedantk/Leetcode/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
+| [2223-sum-of-scores-of-built-strings](https://github.com/DevVedantk/Leetcode/tree/master/2223-sum-of-scores-of-built-strings) |
 | [3291-minimum-number-of-valid-strings-to-form-target-i](https://github.com/DevVedantk/Leetcode/tree/master/3291-minimum-number-of-valid-strings-to-form-target-i) |
 ## Data Stream
 |  |
@@ -550,4 +555,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3725-count-ways-to-choose-coprime-integers-from-rows](https://github.com/DevVedantk/Leetcode/tree/master/3725-count-ways-to-choose-coprime-integers-from-rows) |
+## Suffix Array
+|  |
+| ------- |
+| [2223-sum-of-scores-of-built-strings](https://github.com/DevVedantk/Leetcode/tree/master/2223-sum-of-scores-of-built-strings) |
 <!---LeetCode Topics End-->
