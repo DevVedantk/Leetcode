@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0315-count-of-smaller-numbers-after-self](https://github.com/DevVedantk/Leetcode/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/DevVedantk/Leetcode/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0648-replace-words](https://github.com/DevVedantk/Leetcode/tree/master/0648-replace-words) |
+| [0740-delete-and-earn](https://github.com/DevVedantk/Leetcode/tree/master/0740-delete-and-earn) |
 | [0741-cherry-pickup](https://github.com/DevVedantk/Leetcode/tree/master/0741-cherry-pickup) |
 | [0745-prefix-and-suffix-search](https://github.com/DevVedantk/Leetcode/tree/master/0745-prefix-and-suffix-search) |
 | [0879-profitable-schemes](https://github.com/DevVedantk/Leetcode/tree/master/0879-profitable-schemes) |
@@ -232,6 +233,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0208-implement-trie-prefix-tree](https://github.com/DevVedantk/Leetcode/tree/master/0208-implement-trie-prefix-tree) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/DevVedantk/Leetcode/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0648-replace-words](https://github.com/DevVedantk/Leetcode/tree/master/0648-replace-words) |
+| [0740-delete-and-earn](https://github.com/DevVedantk/Leetcode/tree/master/0740-delete-and-earn) |
 | [0745-prefix-and-suffix-search](https://github.com/DevVedantk/Leetcode/tree/master/0745-prefix-and-suffix-search) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/DevVedantk/Leetcode/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/DevVedantk/Leetcode/tree/master/0961-n-repeated-element-in-size-2n-array) |
@@ -331,6 +333,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0514-freedom-trail](https://github.com/DevVedantk/Leetcode/tree/master/0514-freedom-trail) |
 | [0552-student-attendance-record-ii](https://github.com/DevVedantk/Leetcode/tree/master/0552-student-attendance-record-ii) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/DevVedantk/Leetcode/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
+| [0740-delete-and-earn](https://github.com/DevVedantk/Leetcode/tree/master/0740-delete-and-earn) |
 | [0741-cherry-pickup](https://github.com/DevVedantk/Leetcode/tree/master/0741-cherry-pickup) |
 | [0834-sum-of-distances-in-tree](https://github.com/DevVedantk/Leetcode/tree/master/0834-sum-of-distances-in-tree) |
 | [0879-profitable-schemes](https://github.com/DevVedantk/Leetcode/tree/master/0879-profitable-schemes) |
