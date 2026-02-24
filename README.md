@@ -149,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0637-average-of-levels-in-binary-tree](https://github.com/DevVedantk/Leetcode/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0834-sum-of-distances-in-tree](https://github.com/DevVedantk/Leetcode/tree/master/0834-sum-of-distances-in-tree) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/DevVedantk/Leetcode/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
+| [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/DevVedantk/Leetcode/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/DevVedantk/Leetcode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1382-balance-a-binary-search-tree](https://github.com/DevVedantk/Leetcode/tree/master/1382-balance-a-binary-search-tree) |
 | [1483-kth-ancestor-of-a-tree-node](https://github.com/DevVedantk/Leetcode/tree/master/1483-kth-ancestor-of-a-tree-node) |
@@ -389,6 +390,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0637-average-of-levels-in-binary-tree](https://github.com/DevVedantk/Leetcode/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0834-sum-of-distances-in-tree](https://github.com/DevVedantk/Leetcode/tree/master/0834-sum-of-distances-in-tree) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/DevVedantk/Leetcode/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
+| [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/DevVedantk/Leetcode/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/DevVedantk/Leetcode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1382-balance-a-binary-search-tree](https://github.com/DevVedantk/Leetcode/tree/master/1382-balance-a-binary-search-tree) |
 | [1483-kth-ancestor-of-a-tree-node](https://github.com/DevVedantk/Leetcode/tree/master/1483-kth-ancestor-of-a-tree-node) |
@@ -409,6 +411,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0623-add-one-row-to-tree](https://github.com/DevVedantk/Leetcode/tree/master/0623-add-one-row-to-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/DevVedantk/Leetcode/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/DevVedantk/Leetcode/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
+| [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/DevVedantk/Leetcode/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/DevVedantk/Leetcode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1382-balance-a-binary-search-tree](https://github.com/DevVedantk/Leetcode/tree/master/1382-balance-a-binary-search-tree) |
 | [2049-count-nodes-with-the-highest-score](https://github.com/DevVedantk/Leetcode/tree/master/2049-count-nodes-with-the-highest-score) |
