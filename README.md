@@ -109,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0648-replace-words](https://github.com/DevVedantk/Leetcode/tree/master/0648-replace-words) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/DevVedantk/Leetcode/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0745-prefix-and-suffix-search](https://github.com/DevVedantk/Leetcode/tree/master/0745-prefix-and-suffix-search) |
+| [0903-valid-permutations-for-di-sequence](https://github.com/DevVedantk/Leetcode/tree/master/0903-valid-permutations-for-di-sequence) |
 | [0955-delete-columns-to-make-sorted-ii](https://github.com/DevVedantk/Leetcode/tree/master/0955-delete-columns-to-make-sorted-ii) |
 | [1032-stream-of-characters](https://github.com/DevVedantk/Leetcode/tree/master/1032-stream-of-characters) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/DevVedantk/Leetcode/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
@@ -304,6 +305,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0903-valid-permutations-for-di-sequence](https://github.com/DevVedantk/Leetcode/tree/master/0903-valid-permutations-for-di-sequence) |
 | [3354-make-array-elements-equal-to-zero](https://github.com/DevVedantk/Leetcode/tree/master/3354-make-array-elements-equal-to-zero) |
 | [3719-longest-balanced-subarray-i](https://github.com/DevVedantk/Leetcode/tree/master/3719-longest-balanced-subarray-i) |
 | [3721-longest-balanced-subarray-ii](https://github.com/DevVedantk/Leetcode/tree/master/3721-longest-balanced-subarray-ii) |
@@ -343,6 +345,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0741-cherry-pickup](https://github.com/DevVedantk/Leetcode/tree/master/0741-cherry-pickup) |
 | [0834-sum-of-distances-in-tree](https://github.com/DevVedantk/Leetcode/tree/master/0834-sum-of-distances-in-tree) |
 | [0879-profitable-schemes](https://github.com/DevVedantk/Leetcode/tree/master/0879-profitable-schemes) |
+| [0903-valid-permutations-for-di-sequence](https://github.com/DevVedantk/Leetcode/tree/master/0903-valid-permutations-for-di-sequence) |
 | [1301-number-of-paths-with-max-score](https://github.com/DevVedantk/Leetcode/tree/master/1301-number-of-paths-with-max-score) |
 | [1458-max-dot-product-of-two-subsequences](https://github.com/DevVedantk/Leetcode/tree/master/1458-max-dot-product-of-two-subsequences) |
 | [1463-cherry-pickup-ii](https://github.com/DevVedantk/Leetcode/tree/master/1463-cherry-pickup-ii) |
