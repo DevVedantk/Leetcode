@@ -365,6 +365,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0085-maximal-rectangle](https://github.com/DevVedantk/Leetcode/tree/master/0085-maximal-rectangle) |
 | [0120-triangle](https://github.com/DevVedantk/Leetcode/tree/master/0120-triangle) |
 | [0233-number-of-digit-one](https://github.com/DevVedantk/Leetcode/tree/master/0233-number-of-digit-one) |
+| [0343-integer-break](https://github.com/DevVedantk/Leetcode/tree/master/0343-integer-break) |
 | [0413-arithmetic-slices](https://github.com/DevVedantk/Leetcode/tree/master/0413-arithmetic-slices) |
 | [0486-predict-the-winner](https://github.com/DevVedantk/Leetcode/tree/master/0486-predict-the-winner) |
 | [0514-freedom-trail](https://github.com/DevVedantk/Leetcode/tree/master/0514-freedom-trail) |
@@ -481,6 +482,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/DevVedantk/Leetcode/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/DevVedantk/Leetcode/tree/master/0067-add-binary) |
 | [0233-number-of-digit-one](https://github.com/DevVedantk/Leetcode/tree/master/0233-number-of-digit-one) |
+| [0343-integer-break](https://github.com/DevVedantk/Leetcode/tree/master/0343-integer-break) |
 | [0486-predict-the-winner](https://github.com/DevVedantk/Leetcode/tree/master/0486-predict-the-winner) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/DevVedantk/Leetcode/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [1513-number-of-substrings-with-only-1s](https://github.com/DevVedantk/Leetcode/tree/master/1513-number-of-substrings-with-only-1s) |
