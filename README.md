@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/DevVedantk/Leetcode/tree/master/0066-plus-one) |
 | [0078-subsets](https://github.com/DevVedantk/Leetcode/tree/master/0078-subsets) |
 | [0085-maximal-rectangle](https://github.com/DevVedantk/Leetcode/tree/master/0085-maximal-rectangle) |
+| [0120-triangle](https://github.com/DevVedantk/Leetcode/tree/master/0120-triangle) |
 | [0307-range-sum-query-mutable](https://github.com/DevVedantk/Leetcode/tree/master/0307-range-sum-query-mutable) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/DevVedantk/Leetcode/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0413-arithmetic-slices](https://github.com/DevVedantk/Leetcode/tree/master/0413-arithmetic-slices) |
@@ -361,6 +362,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0053-maximum-subarray](https://github.com/DevVedantk/Leetcode/tree/master/0053-maximum-subarray) |
 | [0085-maximal-rectangle](https://github.com/DevVedantk/Leetcode/tree/master/0085-maximal-rectangle) |
+| [0120-triangle](https://github.com/DevVedantk/Leetcode/tree/master/0120-triangle) |
 | [0413-arithmetic-slices](https://github.com/DevVedantk/Leetcode/tree/master/0413-arithmetic-slices) |
 | [0486-predict-the-winner](https://github.com/DevVedantk/Leetcode/tree/master/0486-predict-the-winner) |
 | [0514-freedom-trail](https://github.com/DevVedantk/Leetcode/tree/master/0514-freedom-trail) |
