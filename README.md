@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0053-maximum-subarray](https://github.com/DevVedantk/Leetcode/tree/master/0053-maximum-subarray) |
 | [0066-plus-one](https://github.com/DevVedantk/Leetcode/tree/master/0066-plus-one) |
+| [0078-subsets](https://github.com/DevVedantk/Leetcode/tree/master/0078-subsets) |
 | [0085-maximal-rectangle](https://github.com/DevVedantk/Leetcode/tree/master/0085-maximal-rectangle) |
 | [0307-range-sum-query-mutable](https://github.com/DevVedantk/Leetcode/tree/master/0307-range-sum-query-mutable) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/DevVedantk/Leetcode/tree/master/0315-count-of-smaller-numbers-after-self) |
@@ -538,6 +539,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/DevVedantk/Leetcode/tree/master/0067-add-binary) |
+| [0078-subsets](https://github.com/DevVedantk/Leetcode/tree/master/0078-subsets) |
 | [0190-reverse-bits](https://github.com/DevVedantk/Leetcode/tree/master/0190-reverse-bits) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/DevVedantk/Leetcode/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0693-binary-number-with-alternating-bits](https://github.com/DevVedantk/Leetcode/tree/master/0693-binary-number-with-alternating-bits) |
@@ -639,4 +641,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0486-predict-the-winner](https://github.com/DevVedantk/Leetcode/tree/master/0486-predict-the-winner) |
+## Backtracking
+|  |
+| ------- |
+| [0078-subsets](https://github.com/DevVedantk/Leetcode/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
