@@ -131,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/DevVedantk/Leetcode/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [1578-minimum-time-to-make-rope-colorful](https://github.com/DevVedantk/Leetcode/tree/master/1578-minimum-time-to-make-rope-colorful) |
 | [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/DevVedantk/Leetcode/tree/master/1758-minimum-changes-to-make-alternating-binary-string) |
+| [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/DevVedantk/Leetcode/tree/master/1784-check-if-binary-string-has-at-most-one-segment-of-ones) |
 | [2125-number-of-laser-beams-in-a-bank](https://github.com/DevVedantk/Leetcode/tree/master/2125-number-of-laser-beams-in-a-bank) |
 | [2223-sum-of-scores-of-built-strings](https://github.com/DevVedantk/Leetcode/tree/master/2223-sum-of-scores-of-built-strings) |
 | [2227-encrypt-and-decrypt-strings](https://github.com/DevVedantk/Leetcode/tree/master/2227-encrypt-and-decrypt-strings) |
