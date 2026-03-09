@@ -339,6 +339,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0903-valid-permutations-for-di-sequence](https://github.com/DevVedantk/Leetcode/tree/master/0903-valid-permutations-for-di-sequence) |
+| [3129-find-all-possible-stable-binary-arrays-i](https://github.com/DevVedantk/Leetcode/tree/master/3129-find-all-possible-stable-binary-arrays-i) |
 | [3147-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/DevVedantk/Leetcode/tree/master/3147-taking-maximum-energy-from-the-mystic-dungeon) |
 | [3354-make-array-elements-equal-to-zero](https://github.com/DevVedantk/Leetcode/tree/master/3354-make-array-elements-equal-to-zero) |
 | [3719-longest-balanced-subarray-i](https://github.com/DevVedantk/Leetcode/tree/master/3719-longest-balanced-subarray-i) |
@@ -402,6 +403,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/DevVedantk/Leetcode/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
 | [2999-count-the-number-of-powerful-integers](https://github.com/DevVedantk/Leetcode/tree/master/2999-count-the-number-of-powerful-integers) |
 | [3117-minimum-sum-of-values-by-dividing-array](https://github.com/DevVedantk/Leetcode/tree/master/3117-minimum-sum-of-values-by-dividing-array) |
+| [3129-find-all-possible-stable-binary-arrays-i](https://github.com/DevVedantk/Leetcode/tree/master/3129-find-all-possible-stable-binary-arrays-i) |
 | [3165-maximum-sum-of-subsequence-with-non-adjacent-elements](https://github.com/DevVedantk/Leetcode/tree/master/3165-maximum-sum-of-subsequence-with-non-adjacent-elements) |
 | [3180-maximum-total-reward-using-operations-i](https://github.com/DevVedantk/Leetcode/tree/master/3180-maximum-total-reward-using-operations-i) |
 | [3186-maximum-total-damage-with-spell-casting](https://github.com/DevVedantk/Leetcode/tree/master/3186-maximum-total-damage-with-spell-casting) |
