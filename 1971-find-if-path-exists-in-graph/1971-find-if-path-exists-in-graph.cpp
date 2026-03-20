@@ -2,19 +2,14 @@ class Solution {
 public:
 vector<bool>vis;
 
-bool dfs(vector<vector<int>>&adj,int src,int des){
-    if(src==des){
-        return true;
-    }
-
-
-    vis[src]=true;
+void dfs(vector<vector<int>>&adj,int src){
+ 
+   vis[src]=true;
     for(int child:adj[src]){
         if(vis[child]==false){
-           if(dfs(adj,child,des)) return true;
+           dfs(adj,child);
         }
     }
-    return false;
 
 }
     bool validPath(int n, vector<vector<int>>& ed, int src, int des) {
@@ -28,7 +23,7 @@ bool dfs(vector<vector<int>>&adj,int src,int des){
             
         }
 
-    return dfs(adj,src,des);
-
+     dfs(adj,src);
+   return vis[des];
     }
 };
