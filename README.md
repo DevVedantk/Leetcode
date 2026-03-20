@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3479-fruits-into-baskets-iii](https://github.com/DevVedantk/Leetcode/tree/master/3479-fruits-into-baskets-iii) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/DevVedantk/Leetcode/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/DevVedantk/Leetcode/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
+| [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/DevVedantk/Leetcode/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
 | [3573-best-time-to-buy-and-sell-stock-v](https://github.com/DevVedantk/Leetcode/tree/master/3573-best-time-to-buy-and-sell-stock-v) |
 | [3606-coupon-code-validator](https://github.com/DevVedantk/Leetcode/tree/master/3606-coupon-code-validator) |
 | [3634-minimum-removals-to-balance-array](https://github.com/DevVedantk/Leetcode/tree/master/3634-minimum-removals-to-balance-array) |
@@ -259,6 +260,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3074-apple-redistribution-into-boxes](https://github.com/DevVedantk/Leetcode/tree/master/3074-apple-redistribution-into-boxes) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/DevVedantk/Leetcode/tree/master/3075-maximize-happiness-of-selected-children) |
 | [3186-maximum-total-damage-with-spell-casting](https://github.com/DevVedantk/Leetcode/tree/master/3186-maximum-total-damage-with-spell-casting) |
+| [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/DevVedantk/Leetcode/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
 | [3606-coupon-code-validator](https://github.com/DevVedantk/Leetcode/tree/master/3606-coupon-code-validator) |
 | [3634-minimum-removals-to-balance-array](https://github.com/DevVedantk/Leetcode/tree/master/3634-minimum-removals-to-balance-array) |
 | [3732-maximum-product-of-three-elements-after-one-replacement](https://github.com/DevVedantk/Leetcode/tree/master/3732-maximum-product-of-three-elements-after-one-replacement) |
@@ -558,6 +560,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2125-number-of-laser-beams-in-a-bank](https://github.com/DevVedantk/Leetcode/tree/master/2125-number-of-laser-beams-in-a-bank) |
 | [2257-count-unguarded-cells-in-the-grid](https://github.com/DevVedantk/Leetcode/tree/master/2257-count-unguarded-cells-in-the-grid) |
 | [2435-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/DevVedantk/Leetcode/tree/master/2435-paths-in-matrix-whose-sum-is-divisible-by-k) |
+| [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/DevVedantk/Leetcode/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
 | [3725-count-ways-to-choose-coprime-integers-from-rows](https://github.com/DevVedantk/Leetcode/tree/master/3725-count-ways-to-choose-coprime-integers-from-rows) |
 ## Monotonic Stack
 |  |
