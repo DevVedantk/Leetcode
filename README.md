@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0120-triangle](https://github.com/DevVedantk/Leetcode/tree/master/0120-triangle) |
 | [0307-range-sum-query-mutable](https://github.com/DevVedantk/Leetcode/tree/master/0307-range-sum-query-mutable) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/DevVedantk/Leetcode/tree/master/0315-count-of-smaller-numbers-after-self) |
+| [0399-evaluate-division](https://github.com/DevVedantk/Leetcode/tree/master/0399-evaluate-division) |
 | [0413-arithmetic-slices](https://github.com/DevVedantk/Leetcode/tree/master/0413-arithmetic-slices) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/DevVedantk/Leetcode/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0486-predict-the-winner](https://github.com/DevVedantk/Leetcode/tree/master/0486-predict-the-winner) |
@@ -123,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/DevVedantk/Leetcode/tree/master/0067-add-binary) |
 | [0208-implement-trie-prefix-tree](https://github.com/DevVedantk/Leetcode/tree/master/0208-implement-trie-prefix-tree) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/DevVedantk/Leetcode/tree/master/0211-design-add-and-search-words-data-structure) |
+| [0399-evaluate-division](https://github.com/DevVedantk/Leetcode/tree/master/0399-evaluate-division) |
 | [0514-freedom-trail](https://github.com/DevVedantk/Leetcode/tree/master/0514-freedom-trail) |
 | [0647-palindromic-substrings](https://github.com/DevVedantk/Leetcode/tree/master/0647-palindromic-substrings) |
 | [0648-replace-words](https://github.com/DevVedantk/Leetcode/tree/master/0648-replace-words) |
@@ -211,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/DevVedantk/Leetcode/tree/master/0107-binary-tree-level-order-traversal-ii) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/DevVedantk/Leetcode/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0310-minimum-height-trees](https://github.com/DevVedantk/Leetcode/tree/master/0310-minimum-height-trees) |
+| [0399-evaluate-division](https://github.com/DevVedantk/Leetcode/tree/master/0399-evaluate-division) |
 | [0429-n-ary-tree-level-order-traversal](https://github.com/DevVedantk/Leetcode/tree/master/0429-n-ary-tree-level-order-traversal) |
 | [0514-freedom-trail](https://github.com/DevVedantk/Leetcode/tree/master/0514-freedom-trail) |
 | [0623-add-one-row-to-tree](https://github.com/DevVedantk/Leetcode/tree/master/0623-add-one-row-to-tree) |
@@ -472,6 +475,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0111-minimum-depth-of-binary-tree](https://github.com/DevVedantk/Leetcode/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/DevVedantk/Leetcode/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0310-minimum-height-trees](https://github.com/DevVedantk/Leetcode/tree/master/0310-minimum-height-trees) |
+| [0399-evaluate-division](https://github.com/DevVedantk/Leetcode/tree/master/0399-evaluate-division) |
 | [0514-freedom-trail](https://github.com/DevVedantk/Leetcode/tree/master/0514-freedom-trail) |
 | [0623-add-one-row-to-tree](https://github.com/DevVedantk/Leetcode/tree/master/0623-add-one-row-to-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/DevVedantk/Leetcode/tree/master/0637-average-of-levels-in-binary-tree) |
@@ -610,6 +614,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0310-minimum-height-trees](https://github.com/DevVedantk/Leetcode/tree/master/0310-minimum-height-trees) |
+| [0399-evaluate-division](https://github.com/DevVedantk/Leetcode/tree/master/0399-evaluate-division) |
 | [0834-sum-of-distances-in-tree](https://github.com/DevVedantk/Leetcode/tree/master/0834-sum-of-distances-in-tree) |
 | [0841-keys-and-rooms](https://github.com/DevVedantk/Leetcode/tree/master/0841-keys-and-rooms) |
 | [1311-get-watched-videos-by-your-friends](https://github.com/DevVedantk/Leetcode/tree/master/1311-get-watched-videos-by-your-friends) |
@@ -708,6 +713,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Union-Find
 |  |
 | ------- |
+| [0399-evaluate-division](https://github.com/DevVedantk/Leetcode/tree/master/0399-evaluate-division) |
 | [1971-find-if-path-exists-in-graph](https://github.com/DevVedantk/Leetcode/tree/master/1971-find-if-path-exists-in-graph) |
 | [2685-count-the-number-of-complete-components](https://github.com/DevVedantk/Leetcode/tree/master/2685-count-the-number-of-complete-components) |
+## Shortest Path
+|  |
+| ------- |
+| [0399-evaluate-division](https://github.com/DevVedantk/Leetcode/tree/master/0399-evaluate-division) |
 <!---LeetCode Topics End-->
