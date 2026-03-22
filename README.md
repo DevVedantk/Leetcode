@@ -219,6 +219,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0514-freedom-trail](https://github.com/DevVedantk/Leetcode/tree/master/0514-freedom-trail) |
 | [0623-add-one-row-to-tree](https://github.com/DevVedantk/Leetcode/tree/master/0623-add-one-row-to-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/DevVedantk/Leetcode/tree/master/0637-average-of-levels-in-binary-tree) |
+| [0785-is-graph-bipartite](https://github.com/DevVedantk/Leetcode/tree/master/0785-is-graph-bipartite) |
 | [0841-keys-and-rooms](https://github.com/DevVedantk/Leetcode/tree/master/0841-keys-and-rooms) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/DevVedantk/Leetcode/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/DevVedantk/Leetcode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
@@ -480,6 +481,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0514-freedom-trail](https://github.com/DevVedantk/Leetcode/tree/master/0514-freedom-trail) |
 | [0623-add-one-row-to-tree](https://github.com/DevVedantk/Leetcode/tree/master/0623-add-one-row-to-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/DevVedantk/Leetcode/tree/master/0637-average-of-levels-in-binary-tree) |
+| [0785-is-graph-bipartite](https://github.com/DevVedantk/Leetcode/tree/master/0785-is-graph-bipartite) |
 | [0834-sum-of-distances-in-tree](https://github.com/DevVedantk/Leetcode/tree/master/0834-sum-of-distances-in-tree) |
 | [0841-keys-and-rooms](https://github.com/DevVedantk/Leetcode/tree/master/0841-keys-and-rooms) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/DevVedantk/Leetcode/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
@@ -617,6 +619,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0310-minimum-height-trees](https://github.com/DevVedantk/Leetcode/tree/master/0310-minimum-height-trees) |
 | [0399-evaluate-division](https://github.com/DevVedantk/Leetcode/tree/master/0399-evaluate-division) |
+| [0785-is-graph-bipartite](https://github.com/DevVedantk/Leetcode/tree/master/0785-is-graph-bipartite) |
 | [0834-sum-of-distances-in-tree](https://github.com/DevVedantk/Leetcode/tree/master/0834-sum-of-distances-in-tree) |
 | [0841-keys-and-rooms](https://github.com/DevVedantk/Leetcode/tree/master/0841-keys-and-rooms) |
 | [1311-get-watched-videos-by-your-friends](https://github.com/DevVedantk/Leetcode/tree/master/1311-get-watched-videos-by-your-friends) |
@@ -716,6 +719,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0399-evaluate-division](https://github.com/DevVedantk/Leetcode/tree/master/0399-evaluate-division) |
+| [0785-is-graph-bipartite](https://github.com/DevVedantk/Leetcode/tree/master/0785-is-graph-bipartite) |
 | [1971-find-if-path-exists-in-graph](https://github.com/DevVedantk/Leetcode/tree/master/1971-find-if-path-exists-in-graph) |
 | [2685-count-the-number-of-complete-components](https://github.com/DevVedantk/Leetcode/tree/master/2685-count-the-number-of-complete-components) |
 ## Shortest Path
