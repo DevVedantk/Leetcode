@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0879-profitable-schemes](https://github.com/DevVedantk/Leetcode/tree/master/0879-profitable-schemes) |
 | [0955-delete-columns-to-make-sorted-ii](https://github.com/DevVedantk/Leetcode/tree/master/0955-delete-columns-to-make-sorted-ii) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/DevVedantk/Leetcode/tree/master/0961-n-repeated-element-in-size-2n-array) |
+| [0997-find-the-town-judge](https://github.com/DevVedantk/Leetcode/tree/master/0997-find-the-town-judge) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/DevVedantk/Leetcode/tree/master/1018-binary-prefix-divisible-by-5) |
 | [1032-stream-of-characters](https://github.com/DevVedantk/Leetcode/tree/master/1032-stream-of-characters) |
 | [1200-minimum-absolute-difference](https://github.com/DevVedantk/Leetcode/tree/master/1200-minimum-absolute-difference) |
@@ -293,6 +294,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0745-prefix-and-suffix-search](https://github.com/DevVedantk/Leetcode/tree/master/0745-prefix-and-suffix-search) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/DevVedantk/Leetcode/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/DevVedantk/Leetcode/tree/master/0961-n-repeated-element-in-size-2n-array) |
+| [0997-find-the-town-judge](https://github.com/DevVedantk/Leetcode/tree/master/0997-find-the-town-judge) |
 | [1311-get-watched-videos-by-your-friends](https://github.com/DevVedantk/Leetcode/tree/master/1311-get-watched-videos-by-your-friends) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/DevVedantk/Leetcode/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1980-find-unique-binary-string](https://github.com/DevVedantk/Leetcode/tree/master/1980-find-unique-binary-string) |
@@ -626,6 +628,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0785-is-graph-bipartite](https://github.com/DevVedantk/Leetcode/tree/master/0785-is-graph-bipartite) |
 | [0834-sum-of-distances-in-tree](https://github.com/DevVedantk/Leetcode/tree/master/0834-sum-of-distances-in-tree) |
 | [0841-keys-and-rooms](https://github.com/DevVedantk/Leetcode/tree/master/0841-keys-and-rooms) |
+| [0997-find-the-town-judge](https://github.com/DevVedantk/Leetcode/tree/master/0997-find-the-town-judge) |
 | [1311-get-watched-videos-by-your-friends](https://github.com/DevVedantk/Leetcode/tree/master/1311-get-watched-videos-by-your-friends) |
 | [1971-find-if-path-exists-in-graph](https://github.com/DevVedantk/Leetcode/tree/master/1971-find-if-path-exists-in-graph) |
 | [2608-shortest-cycle-in-a-graph](https://github.com/DevVedantk/Leetcode/tree/master/2608-shortest-cycle-in-a-graph) |
