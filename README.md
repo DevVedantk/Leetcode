@@ -639,6 +639,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1311-get-watched-videos-by-your-friends](https://github.com/DevVedantk/Leetcode/tree/master/1311-get-watched-videos-by-your-friends) |
 | [1557-minimum-number-of-vertices-to-reach-all-nodes](https://github.com/DevVedantk/Leetcode/tree/master/1557-minimum-number-of-vertices-to-reach-all-nodes) |
 | [1761-minimum-degree-of-a-connected-trio-in-a-graph](https://github.com/DevVedantk/Leetcode/tree/master/1761-minimum-degree-of-a-connected-trio-in-a-graph) |
+| [1791-find-center-of-star-graph](https://github.com/DevVedantk/Leetcode/tree/master/1791-find-center-of-star-graph) |
 | [1971-find-if-path-exists-in-graph](https://github.com/DevVedantk/Leetcode/tree/master/1971-find-if-path-exists-in-graph) |
 | [2608-shortest-cycle-in-a-graph](https://github.com/DevVedantk/Leetcode/tree/master/2608-shortest-cycle-in-a-graph) |
 | [2685-count-the-number-of-complete-components](https://github.com/DevVedantk/Leetcode/tree/master/2685-count-the-number-of-complete-components) |
