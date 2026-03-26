@@ -653,6 +653,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2608-shortest-cycle-in-a-graph](https://github.com/DevVedantk/Leetcode/tree/master/2608-shortest-cycle-in-a-graph) |
 | [2685-count-the-number-of-complete-components](https://github.com/DevVedantk/Leetcode/tree/master/2685-count-the-number-of-complete-components) |
 | [2846-minimum-edge-weight-equilibrium-queries-in-a-tree](https://github.com/DevVedantk/Leetcode/tree/master/2846-minimum-edge-weight-equilibrium-queries-in-a-tree) |
+| [2924-find-champion-ii](https://github.com/DevVedantk/Leetcode/tree/master/2924-find-champion-ii) |
 | [3203-find-minimum-diameter-after-merging-two-trees](https://github.com/DevVedantk/Leetcode/tree/master/3203-find-minimum-diameter-after-merging-two-trees) |
 ## Strongly Connected Component
 |  |
