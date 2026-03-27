@@ -4,7 +4,7 @@ public:
         vector<vector<int>>mat=org;
         int flip=k%mat[0].size();
          
-        for(int i=0;i<flip;i++){
+        for(int i=0;i<k;i++){
              
              for(int a=0;a<mat.size();a++){
                 if(a%2==0){
