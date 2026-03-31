@@ -54,14 +54,6 @@ vector<int> topo(vector<vector<int>>&adj,int n){
         col[r2[i]]=i;
     }
 
- for(int i=0;i<k;i++){
-    cout << r1[i] << " ";
- }
-
- cout << endl;
-  for(int i=0;i<k;i++){
-    cout << r2[i] << " ";
- }
     vector<vector<int>> ans(k,vector<int>(k,0));
     for(auto ele:col){
         int idx1=ele.second;
