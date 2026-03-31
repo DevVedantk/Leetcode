@@ -236,6 +236,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0637-average-of-levels-in-binary-tree](https://github.com/DevVedantk/Leetcode/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0743-network-delay-time](https://github.com/DevVedantk/Leetcode/tree/master/0743-network-delay-time) |
 | [0785-is-graph-bipartite](https://github.com/DevVedantk/Leetcode/tree/master/0785-is-graph-bipartite) |
+| [0802-find-eventual-safe-states](https://github.com/DevVedantk/Leetcode/tree/master/0802-find-eventual-safe-states) |
 | [0841-keys-and-rooms](https://github.com/DevVedantk/Leetcode/tree/master/0841-keys-and-rooms) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/DevVedantk/Leetcode/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [0886-possible-bipartition](https://github.com/DevVedantk/Leetcode/tree/master/0886-possible-bipartition) |
@@ -516,6 +517,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0637-average-of-levels-in-binary-tree](https://github.com/DevVedantk/Leetcode/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0743-network-delay-time](https://github.com/DevVedantk/Leetcode/tree/master/0743-network-delay-time) |
 | [0785-is-graph-bipartite](https://github.com/DevVedantk/Leetcode/tree/master/0785-is-graph-bipartite) |
+| [0802-find-eventual-safe-states](https://github.com/DevVedantk/Leetcode/tree/master/0802-find-eventual-safe-states) |
 | [0834-sum-of-distances-in-tree](https://github.com/DevVedantk/Leetcode/tree/master/0834-sum-of-distances-in-tree) |
 | [0841-keys-and-rooms](https://github.com/DevVedantk/Leetcode/tree/master/0841-keys-and-rooms) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/DevVedantk/Leetcode/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
@@ -670,6 +672,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0399-evaluate-division](https://github.com/DevVedantk/Leetcode/tree/master/0399-evaluate-division) |
 | [0743-network-delay-time](https://github.com/DevVedantk/Leetcode/tree/master/0743-network-delay-time) |
 | [0785-is-graph-bipartite](https://github.com/DevVedantk/Leetcode/tree/master/0785-is-graph-bipartite) |
+| [0802-find-eventual-safe-states](https://github.com/DevVedantk/Leetcode/tree/master/0802-find-eventual-safe-states) |
 | [0834-sum-of-distances-in-tree](https://github.com/DevVedantk/Leetcode/tree/master/0834-sum-of-distances-in-tree) |
 | [0841-keys-and-rooms](https://github.com/DevVedantk/Leetcode/tree/master/0841-keys-and-rooms) |
 | [0886-possible-bipartition](https://github.com/DevVedantk/Leetcode/tree/master/0886-possible-bipartition) |
@@ -702,6 +705,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0207-course-schedule](https://github.com/DevVedantk/Leetcode/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/DevVedantk/Leetcode/tree/master/0210-course-schedule-ii) |
 | [0310-minimum-height-trees](https://github.com/DevVedantk/Leetcode/tree/master/0310-minimum-height-trees) |
+| [0802-find-eventual-safe-states](https://github.com/DevVedantk/Leetcode/tree/master/0802-find-eventual-safe-states) |
 | [1203-sort-items-by-groups-respecting-dependencies](https://github.com/DevVedantk/Leetcode/tree/master/1203-sort-items-by-groups-respecting-dependencies) |
 | [2050-parallel-courses-iii](https://github.com/DevVedantk/Leetcode/tree/master/2050-parallel-courses-iii) |
 | [2115-find-all-possible-recipes-from-given-supplies](https://github.com/DevVedantk/Leetcode/tree/master/2115-find-all-possible-recipes-from-given-supplies) |
