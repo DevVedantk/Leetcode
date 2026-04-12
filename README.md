@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1578-minimum-time-to-make-rope-colorful](https://github.com/DevVedantk/Leetcode/tree/master/1578-minimum-time-to-make-rope-colorful) |
 | [1591-strange-printer-ii](https://github.com/DevVedantk/Leetcode/tree/master/1591-strange-printer-ii) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/DevVedantk/Leetcode/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
+| [1697-checking-existence-of-edge-length-limited-paths](https://github.com/DevVedantk/Leetcode/tree/master/1697-checking-existence-of-edge-length-limited-paths) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/DevVedantk/Leetcode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/DevVedantk/Leetcode/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [1980-find-unique-binary-string](https://github.com/DevVedantk/Leetcode/tree/master/1980-find-unique-binary-string) |
@@ -274,6 +275,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0647-palindromic-substrings](https://github.com/DevVedantk/Leetcode/tree/master/0647-palindromic-substrings) |
+| [1697-checking-existence-of-edge-length-limited-paths](https://github.com/DevVedantk/Leetcode/tree/master/1697-checking-existence-of-edge-length-limited-paths) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/DevVedantk/Leetcode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/DevVedantk/Leetcode/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [3186-maximum-total-damage-with-spell-casting](https://github.com/DevVedantk/Leetcode/tree/master/3186-maximum-total-damage-with-spell-casting) |
@@ -308,6 +310,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1311-get-watched-videos-by-your-friends](https://github.com/DevVedantk/Leetcode/tree/master/1311-get-watched-videos-by-your-friends) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/DevVedantk/Leetcode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/DevVedantk/Leetcode/tree/master/1547-minimum-cost-to-cut-a-stick) |
+| [1697-checking-existence-of-edge-length-limited-paths](https://github.com/DevVedantk/Leetcode/tree/master/1697-checking-existence-of-edge-length-limited-paths) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/DevVedantk/Leetcode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/DevVedantk/Leetcode/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2497-maximum-star-sum-of-a-graph](https://github.com/DevVedantk/Leetcode/tree/master/2497-maximum-star-sum-of-a-graph) |
@@ -719,6 +722,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1557-minimum-number-of-vertices-to-reach-all-nodes](https://github.com/DevVedantk/Leetcode/tree/master/1557-minimum-number-of-vertices-to-reach-all-nodes) |
 | [1591-strange-printer-ii](https://github.com/DevVedantk/Leetcode/tree/master/1591-strange-printer-ii) |
 | [1615-maximal-network-rank](https://github.com/DevVedantk/Leetcode/tree/master/1615-maximal-network-rank) |
+| [1697-checking-existence-of-edge-length-limited-paths](https://github.com/DevVedantk/Leetcode/tree/master/1697-checking-existence-of-edge-length-limited-paths) |
 | [1761-minimum-degree-of-a-connected-trio-in-a-graph](https://github.com/DevVedantk/Leetcode/tree/master/1761-minimum-degree-of-a-connected-trio-in-a-graph) |
 | [1791-find-center-of-star-graph](https://github.com/DevVedantk/Leetcode/tree/master/1791-find-center-of-star-graph) |
 | [1971-find-if-path-exists-in-graph](https://github.com/DevVedantk/Leetcode/tree/master/1971-find-if-path-exists-in-graph) |
@@ -845,6 +849,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0886-possible-bipartition](https://github.com/DevVedantk/Leetcode/tree/master/0886-possible-bipartition) |
 | [0990-satisfiability-of-equality-equations](https://github.com/DevVedantk/Leetcode/tree/master/0990-satisfiability-of-equality-equations) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/DevVedantk/Leetcode/tree/master/1319-number-of-operations-to-make-network-connected) |
+| [1697-checking-existence-of-edge-length-limited-paths](https://github.com/DevVedantk/Leetcode/tree/master/1697-checking-existence-of-edge-length-limited-paths) |
 | [1971-find-if-path-exists-in-graph](https://github.com/DevVedantk/Leetcode/tree/master/1971-find-if-path-exists-in-graph) |
 | [2076-process-restricted-friend-requests](https://github.com/DevVedantk/Leetcode/tree/master/2076-process-restricted-friend-requests) |
 | [2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph](https://github.com/DevVedantk/Leetcode/tree/master/2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph) |
