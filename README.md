@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1591-strange-printer-ii](https://github.com/DevVedantk/Leetcode/tree/master/1591-strange-printer-ii) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/DevVedantk/Leetcode/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [1697-checking-existence-of-edge-length-limited-paths](https://github.com/DevVedantk/Leetcode/tree/master/1697-checking-existence-of-edge-length-limited-paths) |
+| [1848-minimum-distance-to-the-target-element](https://github.com/DevVedantk/Leetcode/tree/master/1848-minimum-distance-to-the-target-element) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/DevVedantk/Leetcode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/DevVedantk/Leetcode/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [1980-find-unique-binary-string](https://github.com/DevVedantk/Leetcode/tree/master/1980-find-unique-binary-string) |
