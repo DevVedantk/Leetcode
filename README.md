@@ -264,6 +264,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1319-number-of-operations-to-make-network-connected](https://github.com/DevVedantk/Leetcode/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1483-kth-ancestor-of-a-tree-node](https://github.com/DevVedantk/Leetcode/tree/master/1483-kth-ancestor-of-a-tree-node) |
 | [1971-find-if-path-exists-in-graph](https://github.com/DevVedantk/Leetcode/tree/master/1971-find-if-path-exists-in-graph) |
+| [2092-find-all-people-with-secret](https://github.com/DevVedantk/Leetcode/tree/master/2092-find-all-people-with-secret) |
 | [2192-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/DevVedantk/Leetcode/tree/master/2192-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
 | [2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph](https://github.com/DevVedantk/Leetcode/tree/master/2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph) |
 | [2415-reverse-odd-levels-of-binary-tree](https://github.com/DevVedantk/Leetcode/tree/master/2415-reverse-odd-levels-of-binary-tree) |
@@ -315,6 +316,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1697-checking-existence-of-edge-length-limited-paths](https://github.com/DevVedantk/Leetcode/tree/master/1697-checking-existence-of-edge-length-limited-paths) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/DevVedantk/Leetcode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/DevVedantk/Leetcode/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
+| [2092-find-all-people-with-secret](https://github.com/DevVedantk/Leetcode/tree/master/2092-find-all-people-with-secret) |
 | [2497-maximum-star-sum-of-a-graph](https://github.com/DevVedantk/Leetcode/tree/master/2497-maximum-star-sum-of-a-graph) |
 | [2751-robot-collisions](https://github.com/DevVedantk/Leetcode/tree/master/2751-robot-collisions) |
 | [3074-apple-redistribution-into-boxes](https://github.com/DevVedantk/Leetcode/tree/master/3074-apple-redistribution-into-boxes) |
@@ -564,6 +566,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1483-kth-ancestor-of-a-tree-node](https://github.com/DevVedantk/Leetcode/tree/master/1483-kth-ancestor-of-a-tree-node) |
 | [1971-find-if-path-exists-in-graph](https://github.com/DevVedantk/Leetcode/tree/master/1971-find-if-path-exists-in-graph) |
 | [2049-count-nodes-with-the-highest-score](https://github.com/DevVedantk/Leetcode/tree/master/2049-count-nodes-with-the-highest-score) |
+| [2092-find-all-people-with-secret](https://github.com/DevVedantk/Leetcode/tree/master/2092-find-all-people-with-secret) |
 | [2192-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/DevVedantk/Leetcode/tree/master/2192-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
 | [2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph](https://github.com/DevVedantk/Leetcode/tree/master/2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph) |
 | [2415-reverse-odd-levels-of-binary-tree](https://github.com/DevVedantk/Leetcode/tree/master/2415-reverse-odd-levels-of-binary-tree) |
@@ -734,6 +737,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1971-find-if-path-exists-in-graph](https://github.com/DevVedantk/Leetcode/tree/master/1971-find-if-path-exists-in-graph) |
 | [2050-parallel-courses-iii](https://github.com/DevVedantk/Leetcode/tree/master/2050-parallel-courses-iii) |
 | [2076-process-restricted-friend-requests](https://github.com/DevVedantk/Leetcode/tree/master/2076-process-restricted-friend-requests) |
+| [2092-find-all-people-with-secret](https://github.com/DevVedantk/Leetcode/tree/master/2092-find-all-people-with-secret) |
 | [2115-find-all-possible-recipes-from-given-supplies](https://github.com/DevVedantk/Leetcode/tree/master/2115-find-all-possible-recipes-from-given-supplies) |
 | [2192-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/DevVedantk/Leetcode/tree/master/2192-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
 | [2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph](https://github.com/DevVedantk/Leetcode/tree/master/2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph) |
@@ -860,6 +864,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1697-checking-existence-of-edge-length-limited-paths](https://github.com/DevVedantk/Leetcode/tree/master/1697-checking-existence-of-edge-length-limited-paths) |
 | [1971-find-if-path-exists-in-graph](https://github.com/DevVedantk/Leetcode/tree/master/1971-find-if-path-exists-in-graph) |
 | [2076-process-restricted-friend-requests](https://github.com/DevVedantk/Leetcode/tree/master/2076-process-restricted-friend-requests) |
+| [2092-find-all-people-with-secret](https://github.com/DevVedantk/Leetcode/tree/master/2092-find-all-people-with-secret) |
 | [2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph](https://github.com/DevVedantk/Leetcode/tree/master/2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/DevVedantk/Leetcode/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/DevVedantk/Leetcode/tree/master/2685-count-the-number-of-complete-components) |
