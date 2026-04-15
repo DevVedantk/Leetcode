@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2435-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/DevVedantk/Leetcode/tree/master/2435-paths-in-matrix-whose-sum-is-divisible-by-k) |
 | [2497-maximum-star-sum-of-a-graph](https://github.com/DevVedantk/Leetcode/tree/master/2497-maximum-star-sum-of-a-graph) |
 | [2509-cycle-length-queries-in-a-tree](https://github.com/DevVedantk/Leetcode/tree/master/2509-cycle-length-queries-in-a-tree) |
+| [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/DevVedantk/Leetcode/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
 | [2751-robot-collisions](https://github.com/DevVedantk/Leetcode/tree/master/2751-robot-collisions) |
 | [2846-minimum-edge-weight-equilibrium-queries-in-a-tree](https://github.com/DevVedantk/Leetcode/tree/master/2846-minimum-edge-weight-equilibrium-queries-in-a-tree) |
 | [2906-construct-product-matrix](https://github.com/DevVedantk/Leetcode/tree/master/2906-construct-product-matrix) |
@@ -169,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2125-number-of-laser-beams-in-a-bank](https://github.com/DevVedantk/Leetcode/tree/master/2125-number-of-laser-beams-in-a-bank) |
 | [2223-sum-of-scores-of-built-strings](https://github.com/DevVedantk/Leetcode/tree/master/2223-sum-of-scores-of-built-strings) |
 | [2227-encrypt-and-decrypt-strings](https://github.com/DevVedantk/Leetcode/tree/master/2227-encrypt-and-decrypt-strings) |
+| [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/DevVedantk/Leetcode/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
 | [2719-count-of-integers](https://github.com/DevVedantk/Leetcode/tree/master/2719-count-of-integers) |
 | [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/DevVedantk/Leetcode/tree/master/2839-check-if-strings-can-be-made-equal-with-operations-i) |
 | [2999-count-the-number-of-powerful-integers](https://github.com/DevVedantk/Leetcode/tree/master/2999-count-the-number-of-powerful-integers) |
