@@ -1,11 +1,14 @@
 class Solution {
 public:
     int mirrorDistance(int n) {
+        int rev=0;
+        int d=n;
+        while(d>0){
+            int dig=d%10;
+            rev=rev*10+dig;
+            d/=10;
+        }
 
-        string s=to_string(n);
-        reverse(s.begin(),s.end());
-        int n2=stoi(s);
-        cout << n2 << endl;
-        return abs(n-n2);
+        return abs(rev-n);
     }
 };
