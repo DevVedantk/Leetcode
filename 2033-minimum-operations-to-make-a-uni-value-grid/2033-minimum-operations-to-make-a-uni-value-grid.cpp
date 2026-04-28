@@ -8,12 +8,11 @@ public:
          for(int i=0;i<grid.size();i++){
             for(int j=0;j<grid[i].size();j++){
                  arr.push_back(grid[i][j]);
-                 if(same==-1) same=grid[i][j];
-                 else if(same!=-1 && grid[i][j]!=same) dup=true;
-                //  if(grid[i][j]%x!=0) return -1;
+                //  if(same==-1) same=grid[i][j];
+                //  else if(same!=-1 && grid[i][j]!=same) dup=true;
             }
          }
-      if(!dup) return 0;
+    //   if(!dup) return 0;
 
          sort(arr.begin(),arr.end());
          int n=arr.size();
