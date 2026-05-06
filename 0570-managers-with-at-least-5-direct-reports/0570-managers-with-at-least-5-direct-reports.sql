@@ -1,0 +1,2 @@
+# Write your MySQL query statement below
+select e.name FROM Employee e INNER JOIN (SELECT managerId,count(managerId) as no_of_report from Employee where managerId IS NOT NULL group by managerId) report on report.managerId=e.id where report.no_of_report>=5;
