@@ -895,6 +895,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0570-managers-with-at-least-5-direct-reports](https://github.com/DevVedantk/Leetcode/tree/master/0570-managers-with-at-least-5-direct-reports) |
 | [0577-employee-bonus](https://github.com/DevVedantk/Leetcode/tree/master/0577-employee-bonus) |
 | [0584-find-customer-referee](https://github.com/DevVedantk/Leetcode/tree/master/0584-find-customer-referee) |
+| [1070-product-sales-analysis-iii](https://github.com/DevVedantk/Leetcode/tree/master/1070-product-sales-analysis-iii) |
 | [1148-article-views-i](https://github.com/DevVedantk/Leetcode/tree/master/1148-article-views-i) |
 | [1193-monthly-transactions-i](https://github.com/DevVedantk/Leetcode/tree/master/1193-monthly-transactions-i) |
 | [1211-queries-quality-and-percentage](https://github.com/DevVedantk/Leetcode/tree/master/1211-queries-quality-and-percentage) |
