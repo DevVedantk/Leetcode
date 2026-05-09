@@ -1,0 +1,2 @@
+# Write your MySQL query statement below
+SELECT e.employee_id,e.department_id  FROM (SELECT employee_id,COUNT(employee_id) as cnt FROM Employee group by employee_id) prime INNER JOIN Employee e ON prime.employee_id=e.employee_id where (prime.cnt=1 AND e.primary_flag='N') OR (prime.cnt>1 AND e.primary_flag='Y');
