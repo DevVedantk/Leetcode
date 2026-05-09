@@ -1,0 +1,2 @@
+# Write your MySQL query statement below
+SELECT pro.customer_id FROM (SELECT customer_id,COUNT(DISTINCT c.product_key) as no_of_bought FROM Customer c INNER JOIN Product p ON p.product_key=c.product_key group by c.customer_id) pro where pro.no_of_bought=(SELECT COUNT(*) from Product);
