@@ -897,6 +897,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0584-find-customer-referee](https://github.com/DevVedantk/Leetcode/tree/master/0584-find-customer-referee) |
 | [0596-classes-with-at-least-5-students](https://github.com/DevVedantk/Leetcode/tree/master/0596-classes-with-at-least-5-students) |
 | [0619-biggest-single-number](https://github.com/DevVedantk/Leetcode/tree/master/0619-biggest-single-number) |
+| [1045-customers-who-bought-all-products](https://github.com/DevVedantk/Leetcode/tree/master/1045-customers-who-bought-all-products) |
 | [1070-product-sales-analysis-iii](https://github.com/DevVedantk/Leetcode/tree/master/1070-product-sales-analysis-iii) |
 | [1148-article-views-i](https://github.com/DevVedantk/Leetcode/tree/master/1148-article-views-i) |
 | [1193-monthly-transactions-i](https://github.com/DevVedantk/Leetcode/tree/master/1193-monthly-transactions-i) |
