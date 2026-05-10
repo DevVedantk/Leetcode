@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2509-cycle-length-queries-in-a-tree](https://github.com/DevVedantk/Leetcode/tree/master/2509-cycle-length-queries-in-a-tree) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/DevVedantk/Leetcode/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
 | [2751-robot-collisions](https://github.com/DevVedantk/Leetcode/tree/master/2751-robot-collisions) |
+| [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/DevVedantk/Leetcode/tree/master/2770-maximum-number-of-jumps-to-reach-the-last-index) |
 | [2846-minimum-edge-weight-equilibrium-queries-in-a-tree](https://github.com/DevVedantk/Leetcode/tree/master/2846-minimum-edge-weight-equilibrium-queries-in-a-tree) |
 | [2906-construct-product-matrix](https://github.com/DevVedantk/Leetcode/tree/master/2906-construct-product-matrix) |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/DevVedantk/Leetcode/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
@@ -494,6 +495,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2407-longest-increasing-subsequence-ii](https://github.com/DevVedantk/Leetcode/tree/master/2407-longest-increasing-subsequence-ii) |
 | [2435-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/DevVedantk/Leetcode/tree/master/2435-paths-in-matrix-whose-sum-is-divisible-by-k) |
 | [2719-count-of-integers](https://github.com/DevVedantk/Leetcode/tree/master/2719-count-of-integers) |
+| [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/DevVedantk/Leetcode/tree/master/2770-maximum-number-of-jumps-to-reach-the-last-index) |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/DevVedantk/Leetcode/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
 | [2999-count-the-number-of-powerful-integers](https://github.com/DevVedantk/Leetcode/tree/master/2999-count-the-number-of-powerful-integers) |
 | [3117-minimum-sum-of-values-by-dividing-array](https://github.com/DevVedantk/Leetcode/tree/master/3117-minimum-sum-of-values-by-dividing-array) |
