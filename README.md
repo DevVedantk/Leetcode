@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1980-find-unique-binary-string](https://github.com/DevVedantk/Leetcode/tree/master/1980-find-unique-binary-string) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/DevVedantk/Leetcode/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/DevVedantk/Leetcode/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
+| [2039-the-time-when-the-network-becomes-idle](https://github.com/DevVedantk/Leetcode/tree/master/2039-the-time-when-the-network-becomes-idle) |
 | [2049-count-nodes-with-the-highest-score](https://github.com/DevVedantk/Leetcode/tree/master/2049-count-nodes-with-the-highest-score) |
 | [2050-parallel-courses-iii](https://github.com/DevVedantk/Leetcode/tree/master/2050-parallel-courses-iii) |
 | [2080-range-frequency-queries](https://github.com/DevVedantk/Leetcode/tree/master/2080-range-frequency-queries) |
@@ -273,6 +274,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1319-number-of-operations-to-make-network-connected](https://github.com/DevVedantk/Leetcode/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1483-kth-ancestor-of-a-tree-node](https://github.com/DevVedantk/Leetcode/tree/master/1483-kth-ancestor-of-a-tree-node) |
 | [1971-find-if-path-exists-in-graph](https://github.com/DevVedantk/Leetcode/tree/master/1971-find-if-path-exists-in-graph) |
+| [2039-the-time-when-the-network-becomes-idle](https://github.com/DevVedantk/Leetcode/tree/master/2039-the-time-when-the-network-becomes-idle) |
 | [2092-find-all-people-with-secret](https://github.com/DevVedantk/Leetcode/tree/master/2092-find-all-people-with-secret) |
 | [2192-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/DevVedantk/Leetcode/tree/master/2192-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
 | [2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph](https://github.com/DevVedantk/Leetcode/tree/master/2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph) |
@@ -754,6 +756,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1791-find-center-of-star-graph](https://github.com/DevVedantk/Leetcode/tree/master/1791-find-center-of-star-graph) |
 | [1971-find-if-path-exists-in-graph](https://github.com/DevVedantk/Leetcode/tree/master/1971-find-if-path-exists-in-graph) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/DevVedantk/Leetcode/tree/master/1976-number-of-ways-to-arrive-at-destination) |
+| [2039-the-time-when-the-network-becomes-idle](https://github.com/DevVedantk/Leetcode/tree/master/2039-the-time-when-the-network-becomes-idle) |
 | [2050-parallel-courses-iii](https://github.com/DevVedantk/Leetcode/tree/master/2050-parallel-courses-iii) |
 | [2076-process-restricted-friend-requests](https://github.com/DevVedantk/Leetcode/tree/master/2076-process-restricted-friend-requests) |
 | [2092-find-all-people-with-secret](https://github.com/DevVedantk/Leetcode/tree/master/2092-find-all-people-with-secret) |
