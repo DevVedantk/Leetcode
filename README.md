@@ -736,6 +736,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0802-find-eventual-safe-states](https://github.com/DevVedantk/Leetcode/tree/master/0802-find-eventual-safe-states) |
 | [0834-sum-of-distances-in-tree](https://github.com/DevVedantk/Leetcode/tree/master/0834-sum-of-distances-in-tree) |
 | [0841-keys-and-rooms](https://github.com/DevVedantk/Leetcode/tree/master/0841-keys-and-rooms) |
+| [0882-reachable-nodes-in-subdivided-graph](https://github.com/DevVedantk/Leetcode/tree/master/0882-reachable-nodes-in-subdivided-graph) |
 | [0886-possible-bipartition](https://github.com/DevVedantk/Leetcode/tree/master/0886-possible-bipartition) |
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/DevVedantk/Leetcode/tree/master/0947-most-stones-removed-with-same-row-or-column) |
 | [0990-satisfiability-of-equality-equations](https://github.com/DevVedantk/Leetcode/tree/master/0990-satisfiability-of-equality-equations) |
@@ -865,6 +866,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0743-network-delay-time](https://github.com/DevVedantk/Leetcode/tree/master/0743-network-delay-time) |
+| [0882-reachable-nodes-in-subdivided-graph](https://github.com/DevVedantk/Leetcode/tree/master/0882-reachable-nodes-in-subdivided-graph) |
 | [1514-path-with-maximum-probability](https://github.com/DevVedantk/Leetcode/tree/master/1514-path-with-maximum-probability) |
 | [2497-maximum-star-sum-of-a-graph](https://github.com/DevVedantk/Leetcode/tree/master/2497-maximum-star-sum-of-a-graph) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/DevVedantk/Leetcode/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
@@ -892,6 +894,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0399-evaluate-division](https://github.com/DevVedantk/Leetcode/tree/master/0399-evaluate-division) |
 | [0743-network-delay-time](https://github.com/DevVedantk/Leetcode/tree/master/0743-network-delay-time) |
+| [0882-reachable-nodes-in-subdivided-graph](https://github.com/DevVedantk/Leetcode/tree/master/0882-reachable-nodes-in-subdivided-graph) |
 | [1514-path-with-maximum-probability](https://github.com/DevVedantk/Leetcode/tree/master/1514-path-with-maximum-probability) |
 ## Database
 |  |
