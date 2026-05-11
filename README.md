@@ -285,6 +285,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/DevVedantk/Leetcode/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2608-shortest-cycle-in-a-graph](https://github.com/DevVedantk/Leetcode/tree/master/2608-shortest-cycle-in-a-graph) |
 | [2685-count-the-number-of-complete-components](https://github.com/DevVedantk/Leetcode/tree/master/2685-count-the-number-of-complete-components) |
+| [3015-count-the-number-of-houses-at-a-certain-distance-i](https://github.com/DevVedantk/Leetcode/tree/master/3015-count-the-number-of-houses-at-a-certain-distance-i) |
 | [3203-find-minimum-diameter-after-merging-two-trees](https://github.com/DevVedantk/Leetcode/tree/master/3203-find-minimum-diameter-after-merging-two-trees) |
 | [3820-pythagorean-distance-nodes-in-a-tree](https://github.com/DevVedantk/Leetcode/tree/master/3820-pythagorean-distance-nodes-in-a-tree) |
 ## Two Pointers
@@ -432,6 +433,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0903-valid-permutations-for-di-sequence](https://github.com/DevVedantk/Leetcode/tree/master/0903-valid-permutations-for-di-sequence) |
 | [2906-construct-product-matrix](https://github.com/DevVedantk/Leetcode/tree/master/2906-construct-product-matrix) |
+| [3015-count-the-number-of-houses-at-a-certain-distance-i](https://github.com/DevVedantk/Leetcode/tree/master/3015-count-the-number-of-houses-at-a-certain-distance-i) |
 | [3129-find-all-possible-stable-binary-arrays-i](https://github.com/DevVedantk/Leetcode/tree/master/3129-find-all-possible-stable-binary-arrays-i) |
 | [3147-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/DevVedantk/Leetcode/tree/master/3147-taking-maximum-energy-from-the-mystic-dungeon) |
 | [3354-make-array-elements-equal-to-zero](https://github.com/DevVedantk/Leetcode/tree/master/3354-make-array-elements-equal-to-zero) |
@@ -775,6 +777,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2685-count-the-number-of-complete-components](https://github.com/DevVedantk/Leetcode/tree/master/2685-count-the-number-of-complete-components) |
 | [2846-minimum-edge-weight-equilibrium-queries-in-a-tree](https://github.com/DevVedantk/Leetcode/tree/master/2846-minimum-edge-weight-equilibrium-queries-in-a-tree) |
 | [2924-find-champion-ii](https://github.com/DevVedantk/Leetcode/tree/master/2924-find-champion-ii) |
+| [3015-count-the-number-of-houses-at-a-certain-distance-i](https://github.com/DevVedantk/Leetcode/tree/master/3015-count-the-number-of-houses-at-a-certain-distance-i) |
 | [3203-find-minimum-diameter-after-merging-two-trees](https://github.com/DevVedantk/Leetcode/tree/master/3203-find-minimum-diameter-after-merging-two-trees) |
 ## Strongly Connected Component
 |  |
