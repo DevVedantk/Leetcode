@@ -466,6 +466,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1483-kth-ancestor-of-a-tree-node](https://github.com/DevVedantk/Leetcode/tree/master/1483-kth-ancestor-of-a-tree-node) |
 | [2080-range-frequency-queries](https://github.com/DevVedantk/Leetcode/tree/master/2080-range-frequency-queries) |
 | [2227-encrypt-and-decrypt-strings](https://github.com/DevVedantk/Leetcode/tree/master/2227-encrypt-and-decrypt-strings) |
+| [2642-design-graph-with-shortest-path-calculator](https://github.com/DevVedantk/Leetcode/tree/master/2642-design-graph-with-shortest-path-calculator) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -770,6 +771,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2497-maximum-star-sum-of-a-graph](https://github.com/DevVedantk/Leetcode/tree/master/2497-maximum-star-sum-of-a-graph) |
 | [2508-add-edges-to-make-degrees-of-all-nodes-even](https://github.com/DevVedantk/Leetcode/tree/master/2508-add-edges-to-make-degrees-of-all-nodes-even) |
 | [2608-shortest-cycle-in-a-graph](https://github.com/DevVedantk/Leetcode/tree/master/2608-shortest-cycle-in-a-graph) |
+| [2642-design-graph-with-shortest-path-calculator](https://github.com/DevVedantk/Leetcode/tree/master/2642-design-graph-with-shortest-path-calculator) |
 | [2685-count-the-number-of-complete-components](https://github.com/DevVedantk/Leetcode/tree/master/2685-count-the-number-of-complete-components) |
 | [2846-minimum-edge-weight-equilibrium-queries-in-a-tree](https://github.com/DevVedantk/Leetcode/tree/master/2846-minimum-edge-weight-equilibrium-queries-in-a-tree) |
 | [2924-find-champion-ii](https://github.com/DevVedantk/Leetcode/tree/master/2924-find-champion-ii) |
@@ -877,6 +879,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0882-reachable-nodes-in-subdivided-graph](https://github.com/DevVedantk/Leetcode/tree/master/0882-reachable-nodes-in-subdivided-graph) |
 | [1514-path-with-maximum-probability](https://github.com/DevVedantk/Leetcode/tree/master/1514-path-with-maximum-probability) |
 | [2497-maximum-star-sum-of-a-graph](https://github.com/DevVedantk/Leetcode/tree/master/2497-maximum-star-sum-of-a-graph) |
+| [2642-design-graph-with-shortest-path-calculator](https://github.com/DevVedantk/Leetcode/tree/master/2642-design-graph-with-shortest-path-calculator) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/DevVedantk/Leetcode/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 ## Union-Find
 |  |
@@ -905,6 +908,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0882-reachable-nodes-in-subdivided-graph](https://github.com/DevVedantk/Leetcode/tree/master/0882-reachable-nodes-in-subdivided-graph) |
 | [1514-path-with-maximum-probability](https://github.com/DevVedantk/Leetcode/tree/master/1514-path-with-maximum-probability) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/DevVedantk/Leetcode/tree/master/1976-number-of-ways-to-arrive-at-destination) |
+| [2642-design-graph-with-shortest-path-calculator](https://github.com/DevVedantk/Leetcode/tree/master/2642-design-graph-with-shortest-path-calculator) |
 ## Database
 |  |
 | ------- |
