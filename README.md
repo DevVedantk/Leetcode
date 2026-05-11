@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2497-maximum-star-sum-of-a-graph](https://github.com/DevVedantk/Leetcode/tree/master/2497-maximum-star-sum-of-a-graph) |
 | [2509-cycle-length-queries-in-a-tree](https://github.com/DevVedantk/Leetcode/tree/master/2509-cycle-length-queries-in-a-tree) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/DevVedantk/Leetcode/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
+| [2553-separate-the-digits-in-an-array](https://github.com/DevVedantk/Leetcode/tree/master/2553-separate-the-digits-in-an-array) |
 | [2751-robot-collisions](https://github.com/DevVedantk/Leetcode/tree/master/2751-robot-collisions) |
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/DevVedantk/Leetcode/tree/master/2770-maximum-number-of-jumps-to-reach-the-last-index) |
 | [2846-minimum-edge-weight-equilibrium-queries-in-a-tree](https://github.com/DevVedantk/Leetcode/tree/master/2846-minimum-edge-weight-equilibrium-queries-in-a-tree) |
@@ -209,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/DevVedantk/Leetcode/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/DevVedantk/Leetcode/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [2257-count-unguarded-cells-in-the-grid](https://github.com/DevVedantk/Leetcode/tree/master/2257-count-unguarded-cells-in-the-grid) |
+| [2553-separate-the-digits-in-an-array](https://github.com/DevVedantk/Leetcode/tree/master/2553-separate-the-digits-in-an-array) |
 | [2751-robot-collisions](https://github.com/DevVedantk/Leetcode/tree/master/2751-robot-collisions) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/DevVedantk/Leetcode/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3354-make-array-elements-equal-to-zero](https://github.com/DevVedantk/Leetcode/tree/master/3354-make-array-elements-equal-to-zero) |
