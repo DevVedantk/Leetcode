@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2906-construct-product-matrix](https://github.com/DevVedantk/Leetcode/tree/master/2906-construct-product-matrix) |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/DevVedantk/Leetcode/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/DevVedantk/Leetcode/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
+| [2976-minimum-cost-to-convert-string-i](https://github.com/DevVedantk/Leetcode/tree/master/2976-minimum-cost-to-convert-string-i) |
 | [3074-apple-redistribution-into-boxes](https://github.com/DevVedantk/Leetcode/tree/master/3074-apple-redistribution-into-boxes) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/DevVedantk/Leetcode/tree/master/3075-maximize-happiness-of-selected-children) |
 | [3093-longest-common-suffix-queries](https://github.com/DevVedantk/Leetcode/tree/master/3093-longest-common-suffix-queries) |
@@ -182,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2719-count-of-integers](https://github.com/DevVedantk/Leetcode/tree/master/2719-count-of-integers) |
 | [2833-furthest-point-from-origin](https://github.com/DevVedantk/Leetcode/tree/master/2833-furthest-point-from-origin) |
 | [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/DevVedantk/Leetcode/tree/master/2839-check-if-strings-can-be-made-equal-with-operations-i) |
+| [2976-minimum-cost-to-convert-string-i](https://github.com/DevVedantk/Leetcode/tree/master/2976-minimum-cost-to-convert-string-i) |
 | [2999-count-the-number-of-powerful-integers](https://github.com/DevVedantk/Leetcode/tree/master/2999-count-the-number-of-powerful-integers) |
 | [3031-minimum-time-to-revert-word-to-initial-state-ii](https://github.com/DevVedantk/Leetcode/tree/master/3031-minimum-time-to-revert-word-to-initial-state-ii) |
 | [3093-longest-common-suffix-queries](https://github.com/DevVedantk/Leetcode/tree/master/3093-longest-common-suffix-queries) |
@@ -777,6 +779,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2685-count-the-number-of-complete-components](https://github.com/DevVedantk/Leetcode/tree/master/2685-count-the-number-of-complete-components) |
 | [2846-minimum-edge-weight-equilibrium-queries-in-a-tree](https://github.com/DevVedantk/Leetcode/tree/master/2846-minimum-edge-weight-equilibrium-queries-in-a-tree) |
 | [2924-find-champion-ii](https://github.com/DevVedantk/Leetcode/tree/master/2924-find-champion-ii) |
+| [2976-minimum-cost-to-convert-string-i](https://github.com/DevVedantk/Leetcode/tree/master/2976-minimum-cost-to-convert-string-i) |
 | [3015-count-the-number-of-houses-at-a-certain-distance-i](https://github.com/DevVedantk/Leetcode/tree/master/3015-count-the-number-of-houses-at-a-certain-distance-i) |
 | [3203-find-minimum-diameter-after-merging-two-trees](https://github.com/DevVedantk/Leetcode/tree/master/3203-find-minimum-diameter-after-merging-two-trees) |
 ## Strongly Connected Component
@@ -912,6 +915,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1514-path-with-maximum-probability](https://github.com/DevVedantk/Leetcode/tree/master/1514-path-with-maximum-probability) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/DevVedantk/Leetcode/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 | [2642-design-graph-with-shortest-path-calculator](https://github.com/DevVedantk/Leetcode/tree/master/2642-design-graph-with-shortest-path-calculator) |
+| [2976-minimum-cost-to-convert-string-i](https://github.com/DevVedantk/Leetcode/tree/master/2976-minimum-cost-to-convert-string-i) |
 ## Database
 |  |
 | ------- |
