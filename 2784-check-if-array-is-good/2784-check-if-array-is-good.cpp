@@ -6,7 +6,6 @@ public:
           
           int n=arr.size();
         if(n<2) return false;
-        int sum=0;
           if(arr[n-1]!=arr[n-2]) return false;
           
            mx=max({mx,arr[n-1],arr[n-2]});
