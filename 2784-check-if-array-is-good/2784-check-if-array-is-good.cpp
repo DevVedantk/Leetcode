@@ -18,7 +18,7 @@ public:
             mn=min(mn,arr[i]);
              if(arr[i]==arr[i+1]) return false;
           }
-          cout << mx << " " << mn << endl;
+        //   cout << mx << " " << mn << endl;
           if(mx!=n-1 || mn!=1) return false;
           return true;
     }
