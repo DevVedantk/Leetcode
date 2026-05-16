@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/DevVedantk/Leetcode/tree/master/0078-subsets) |
 | [0085-maximal-rectangle](https://github.com/DevVedantk/Leetcode/tree/master/0085-maximal-rectangle) |
 | [0120-triangle](https://github.com/DevVedantk/Leetcode/tree/master/0120-triangle) |
+| [0130-surrounded-regions](https://github.com/DevVedantk/Leetcode/tree/master/0130-surrounded-regions) |
 | [0307-range-sum-query-mutable](https://github.com/DevVedantk/Leetcode/tree/master/0307-range-sum-query-mutable) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/DevVedantk/Leetcode/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0399-evaluate-division](https://github.com/DevVedantk/Leetcode/tree/master/0399-evaluate-division) |
@@ -265,6 +266,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/DevVedantk/Leetcode/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/DevVedantk/Leetcode/tree/master/0107-binary-tree-level-order-traversal-ii) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/DevVedantk/Leetcode/tree/master/0111-minimum-depth-of-binary-tree) |
+| [0130-surrounded-regions](https://github.com/DevVedantk/Leetcode/tree/master/0130-surrounded-regions) |
 | [0207-course-schedule](https://github.com/DevVedantk/Leetcode/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/DevVedantk/Leetcode/tree/master/0210-course-schedule-ii) |
 | [0310-minimum-height-trees](https://github.com/DevVedantk/Leetcode/tree/master/0310-minimum-height-trees) |
@@ -586,6 +588,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0110-balanced-binary-tree](https://github.com/DevVedantk/Leetcode/tree/master/0110-balanced-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/DevVedantk/Leetcode/tree/master/0111-minimum-depth-of-binary-tree) |
+| [0130-surrounded-regions](https://github.com/DevVedantk/Leetcode/tree/master/0130-surrounded-regions) |
 | [0207-course-schedule](https://github.com/DevVedantk/Leetcode/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/DevVedantk/Leetcode/tree/master/0210-course-schedule-ii) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/DevVedantk/Leetcode/tree/master/0211-design-add-and-search-words-data-structure) |
@@ -705,6 +708,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0085-maximal-rectangle](https://github.com/DevVedantk/Leetcode/tree/master/0085-maximal-rectangle) |
+| [0130-surrounded-regions](https://github.com/DevVedantk/Leetcode/tree/master/0130-surrounded-regions) |
 | [0741-cherry-pickup](https://github.com/DevVedantk/Leetcode/tree/master/0741-cherry-pickup) |
 | [1293-shortest-path-in-a-grid-with-obstacles-elimination](https://github.com/DevVedantk/Leetcode/tree/master/1293-shortest-path-in-a-grid-with-obstacles-elimination) |
 | [1301-number-of-paths-with-max-score](https://github.com/DevVedantk/Leetcode/tree/master/1301-number-of-paths-with-max-score) |
@@ -931,6 +935,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Union-Find
 |  |
 | ------- |
+| [0130-surrounded-regions](https://github.com/DevVedantk/Leetcode/tree/master/0130-surrounded-regions) |
 | [0399-evaluate-division](https://github.com/DevVedantk/Leetcode/tree/master/0399-evaluate-division) |
 | [0547-number-of-provinces](https://github.com/DevVedantk/Leetcode/tree/master/0547-number-of-provinces) |
 | [0684-redundant-connection](https://github.com/DevVedantk/Leetcode/tree/master/0684-redundant-connection) |
