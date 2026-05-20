@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1345-jump-game-iv](https://github.com/DevVedantk/Leetcode/tree/master/1345-jump-game-iv) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/DevVedantk/Leetcode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/DevVedantk/Leetcode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
+| [1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/DevVedantk/Leetcode/tree/master/1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1458-max-dot-product-of-two-subsequences](https://github.com/DevVedantk/Leetcode/tree/master/1458-max-dot-product-of-two-subsequences) |
 | [1463-cherry-pickup-ii](https://github.com/DevVedantk/Leetcode/tree/master/1463-cherry-pickup-ii) |
 | [1514-path-with-maximum-probability](https://github.com/DevVedantk/Leetcode/tree/master/1514-path-with-maximum-probability) |
@@ -297,6 +298,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1311-get-watched-videos-by-your-friends](https://github.com/DevVedantk/Leetcode/tree/master/1311-get-watched-videos-by-your-friends) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/DevVedantk/Leetcode/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1345-jump-game-iv](https://github.com/DevVedantk/Leetcode/tree/master/1345-jump-game-iv) |
+| [1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/DevVedantk/Leetcode/tree/master/1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1483-kth-ancestor-of-a-tree-node](https://github.com/DevVedantk/Leetcode/tree/master/1483-kth-ancestor-of-a-tree-node) |
 | [1971-find-if-path-exists-in-graph](https://github.com/DevVedantk/Leetcode/tree/master/1971-find-if-path-exists-in-graph) |
 | [2039-the-time-when-the-network-becomes-idle](https://github.com/DevVedantk/Leetcode/tree/master/2039-the-time-when-the-network-becomes-idle) |
@@ -727,6 +729,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1293-shortest-path-in-a-grid-with-obstacles-elimination](https://github.com/DevVedantk/Leetcode/tree/master/1293-shortest-path-in-a-grid-with-obstacles-elimination) |
 | [1301-number-of-paths-with-max-score](https://github.com/DevVedantk/Leetcode/tree/master/1301-number-of-paths-with-max-score) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/DevVedantk/Leetcode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
+| [1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/DevVedantk/Leetcode/tree/master/1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1463-cherry-pickup-ii](https://github.com/DevVedantk/Leetcode/tree/master/1463-cherry-pickup-ii) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/DevVedantk/Leetcode/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1591-strange-printer-ii](https://github.com/DevVedantk/Leetcode/tree/master/1591-strange-printer-ii) |
@@ -804,6 +807,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1203-sort-items-by-groups-respecting-dependencies](https://github.com/DevVedantk/Leetcode/tree/master/1203-sort-items-by-groups-respecting-dependencies) |
 | [1311-get-watched-videos-by-your-friends](https://github.com/DevVedantk/Leetcode/tree/master/1311-get-watched-videos-by-your-friends) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/DevVedantk/Leetcode/tree/master/1319-number-of-operations-to-make-network-connected) |
+| [1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/DevVedantk/Leetcode/tree/master/1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1489-find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree](https://github.com/DevVedantk/Leetcode/tree/master/1489-find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree) |
 | [1514-path-with-maximum-probability](https://github.com/DevVedantk/Leetcode/tree/master/1514-path-with-maximum-probability) |
 | [1557-minimum-number-of-vertices-to-reach-all-nodes](https://github.com/DevVedantk/Leetcode/tree/master/1557-minimum-number-of-vertices-to-reach-all-nodes) |
@@ -941,6 +945,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0743-network-delay-time](https://github.com/DevVedantk/Leetcode/tree/master/0743-network-delay-time) |
 | [0882-reachable-nodes-in-subdivided-graph](https://github.com/DevVedantk/Leetcode/tree/master/0882-reachable-nodes-in-subdivided-graph) |
 | [0912-sort-an-array](https://github.com/DevVedantk/Leetcode/tree/master/0912-sort-an-array) |
+| [1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/DevVedantk/Leetcode/tree/master/1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1514-path-with-maximum-probability](https://github.com/DevVedantk/Leetcode/tree/master/1514-path-with-maximum-probability) |
 | [2290-minimum-obstacle-removal-to-reach-corner](https://github.com/DevVedantk/Leetcode/tree/master/2290-minimum-obstacle-removal-to-reach-corner) |
 | [2497-maximum-star-sum-of-a-graph](https://github.com/DevVedantk/Leetcode/tree/master/2497-maximum-star-sum-of-a-graph) |
@@ -978,6 +983,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0399-evaluate-division](https://github.com/DevVedantk/Leetcode/tree/master/0399-evaluate-division) |
 | [0743-network-delay-time](https://github.com/DevVedantk/Leetcode/tree/master/0743-network-delay-time) |
 | [0882-reachable-nodes-in-subdivided-graph](https://github.com/DevVedantk/Leetcode/tree/master/0882-reachable-nodes-in-subdivided-graph) |
+| [1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/DevVedantk/Leetcode/tree/master/1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1514-path-with-maximum-probability](https://github.com/DevVedantk/Leetcode/tree/master/1514-path-with-maximum-probability) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/DevVedantk/Leetcode/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 | [2290-minimum-obstacle-removal-to-reach-corner](https://github.com/DevVedantk/Leetcode/tree/master/2290-minimum-obstacle-removal-to-reach-corner) |
