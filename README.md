@@ -858,6 +858,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3015-count-the-number-of-houses-at-a-certain-distance-i](https://github.com/DevVedantk/Leetcode/tree/master/3015-count-the-number-of-houses-at-a-certain-distance-i) |
 | [3203-find-minimum-diameter-after-merging-two-trees](https://github.com/DevVedantk/Leetcode/tree/master/3203-find-minimum-diameter-after-merging-two-trees) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/DevVedantk/Leetcode/tree/master/3286-find-a-safe-walk-through-a-grid) |
+| [3650-minimum-cost-path-with-edge-reversals](https://github.com/DevVedantk/Leetcode/tree/master/3650-minimum-cost-path-with-edge-reversals) |
 | [3924-minimum-threshold-path-with-limited-heavy-edges](https://github.com/DevVedantk/Leetcode/tree/master/3924-minimum-threshold-path-with-limited-heavy-edges) |
 ## Strongly Connected Component
 |  |
@@ -970,6 +971,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2699-modify-graph-edge-weights](https://github.com/DevVedantk/Leetcode/tree/master/2699-modify-graph-edge-weights) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/DevVedantk/Leetcode/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/DevVedantk/Leetcode/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
+| [3650-minimum-cost-path-with-edge-reversals](https://github.com/DevVedantk/Leetcode/tree/master/3650-minimum-cost-path-with-edge-reversals) |
 ## Union-Find
 |  |
 | ------- |
@@ -1010,6 +1012,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2699-modify-graph-edge-weights](https://github.com/DevVedantk/Leetcode/tree/master/2699-modify-graph-edge-weights) |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/DevVedantk/Leetcode/tree/master/2976-minimum-cost-to-convert-string-i) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/DevVedantk/Leetcode/tree/master/3286-find-a-safe-walk-through-a-grid) |
+| [3650-minimum-cost-path-with-edge-reversals](https://github.com/DevVedantk/Leetcode/tree/master/3650-minimum-cost-path-with-edge-reversals) |
 ## Database
 |  |
 | ------- |
