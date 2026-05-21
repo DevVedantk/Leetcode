@@ -148,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3826-minimum-partition-score](https://github.com/DevVedantk/Leetcode/tree/master/3826-minimum-partition-score) |
 | [3873-maximum-points-activated-with-one-addition](https://github.com/DevVedantk/Leetcode/tree/master/3873-maximum-points-activated-with-one-addition) |
 | [3905-multi-source-flood-fill](https://github.com/DevVedantk/Leetcode/tree/master/3905-multi-source-flood-fill) |
+| [3928-minimum-cost-to-buy-apples-ii](https://github.com/DevVedantk/Leetcode/tree/master/3928-minimum-cost-to-buy-apples-ii) |
 ## Binary Search
 |  |
 | ------- |
@@ -860,6 +861,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/DevVedantk/Leetcode/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3650-minimum-cost-path-with-edge-reversals](https://github.com/DevVedantk/Leetcode/tree/master/3650-minimum-cost-path-with-edge-reversals) |
 | [3924-minimum-threshold-path-with-limited-heavy-edges](https://github.com/DevVedantk/Leetcode/tree/master/3924-minimum-threshold-path-with-limited-heavy-edges) |
+| [3928-minimum-cost-to-buy-apples-ii](https://github.com/DevVedantk/Leetcode/tree/master/3928-minimum-cost-to-buy-apples-ii) |
 ## Strongly Connected Component
 |  |
 | ------- |
@@ -972,6 +974,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/DevVedantk/Leetcode/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/DevVedantk/Leetcode/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3650-minimum-cost-path-with-edge-reversals](https://github.com/DevVedantk/Leetcode/tree/master/3650-minimum-cost-path-with-edge-reversals) |
+| [3928-minimum-cost-to-buy-apples-ii](https://github.com/DevVedantk/Leetcode/tree/master/3928-minimum-cost-to-buy-apples-ii) |
 ## Union-Find
 |  |
 | ------- |
@@ -1013,6 +1016,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2976-minimum-cost-to-convert-string-i](https://github.com/DevVedantk/Leetcode/tree/master/2976-minimum-cost-to-convert-string-i) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/DevVedantk/Leetcode/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3650-minimum-cost-path-with-edge-reversals](https://github.com/DevVedantk/Leetcode/tree/master/3650-minimum-cost-path-with-edge-reversals) |
+| [3928-minimum-cost-to-buy-apples-ii](https://github.com/DevVedantk/Leetcode/tree/master/3928-minimum-cost-to-buy-apples-ii) |
 ## Database
 |  |
 | ------- |
