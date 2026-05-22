@@ -41,10 +41,7 @@ public:
 
     }
     int minCost(int n, vector<vector<int>>& edges, int k) {
-           vector<int>arr;
-           for(int i=0;i<edges.size();i++) arr.push_back(edges[i][2]);
-           sort(arr.begin(),arr.end());
-
+         
            int lo=0,hi=1e9;
         int ans=INT_MAX;
            while(lo<=hi){
