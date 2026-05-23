@@ -1,0 +1,2 @@
+# Write your MySQL query statement below
+SELECT p.product_name,res.tot as unit FROM Products p INNER JOIN (SELECT product_id,order_date,SUM(unit) as tot FROM Orders WHERE order_date>='2020-02-01' AND order_date<'2020-03-01' GROUP BY product_id) res on res.product_id=p.product_id WHERE res.tot>=100; 
