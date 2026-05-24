@@ -6,9 +6,8 @@ public:
 
 
     void dfs(string node){
-        while(adj[node].size()>0){
-            auto edge=adj[node].back();
-            adj[node].pop_back();
+        for(auto edge:adj[node]){
+            // adj[node].pop_back();
 
             if(seen[edge.second]) continue;
             seen[edge.second]=true;
@@ -28,7 +27,7 @@ public:
            for(auto& ele:adj){
             vector<pair<string,int>>&arr=ele.second;
             sort(arr.begin(),arr.end());
-            reverse(arr.begin(),arr.end());
+            // reverse(arr.begin(),arr.end());
             ele.second=arr;
            }
 
