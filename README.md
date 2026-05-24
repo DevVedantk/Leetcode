@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2050-parallel-courses-iii](https://github.com/DevVedantk/Leetcode/tree/master/2050-parallel-courses-iii) |
 | [2080-range-frequency-queries](https://github.com/DevVedantk/Leetcode/tree/master/2080-range-frequency-queries) |
 | [2087-minimum-cost-homecoming-of-a-robot-in-a-grid](https://github.com/DevVedantk/Leetcode/tree/master/2087-minimum-cost-homecoming-of-a-robot-in-a-grid) |
+| [2097-valid-arrangement-of-pairs](https://github.com/DevVedantk/Leetcode/tree/master/2097-valid-arrangement-of-pairs) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/DevVedantk/Leetcode/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2115-find-all-possible-recipes-from-given-supplies](https://github.com/DevVedantk/Leetcode/tree/master/2115-find-all-possible-recipes-from-given-supplies) |
 | [2125-number-of-laser-beams-in-a-bank](https://github.com/DevVedantk/Leetcode/tree/master/2125-number-of-laser-beams-in-a-bank) |
@@ -657,6 +658,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1971-find-if-path-exists-in-graph](https://github.com/DevVedantk/Leetcode/tree/master/1971-find-if-path-exists-in-graph) |
 | [2049-count-nodes-with-the-highest-score](https://github.com/DevVedantk/Leetcode/tree/master/2049-count-nodes-with-the-highest-score) |
 | [2092-find-all-people-with-secret](https://github.com/DevVedantk/Leetcode/tree/master/2092-find-all-people-with-secret) |
+| [2097-valid-arrangement-of-pairs](https://github.com/DevVedantk/Leetcode/tree/master/2097-valid-arrangement-of-pairs) |
 | [2192-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/DevVedantk/Leetcode/tree/master/2192-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
 | [2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph](https://github.com/DevVedantk/Leetcode/tree/master/2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph) |
 | [2360-longest-cycle-in-a-graph](https://github.com/DevVedantk/Leetcode/tree/master/2360-longest-cycle-in-a-graph) |
@@ -856,6 +858,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2050-parallel-courses-iii](https://github.com/DevVedantk/Leetcode/tree/master/2050-parallel-courses-iii) |
 | [2076-process-restricted-friend-requests](https://github.com/DevVedantk/Leetcode/tree/master/2076-process-restricted-friend-requests) |
 | [2092-find-all-people-with-secret](https://github.com/DevVedantk/Leetcode/tree/master/2092-find-all-people-with-secret) |
+| [2097-valid-arrangement-of-pairs](https://github.com/DevVedantk/Leetcode/tree/master/2097-valid-arrangement-of-pairs) |
 | [2115-find-all-possible-recipes-from-given-supplies](https://github.com/DevVedantk/Leetcode/tree/master/2115-find-all-possible-recipes-from-given-supplies) |
 | [2192-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/DevVedantk/Leetcode/tree/master/2192-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
 | [2290-minimum-obstacle-removal-to-reach-corner](https://github.com/DevVedantk/Leetcode/tree/master/2290-minimum-obstacle-removal-to-reach-corner) |
@@ -1093,4 +1096,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0912-sort-an-array](https://github.com/DevVedantk/Leetcode/tree/master/0912-sort-an-array) |
+## Eulerian Circuit
+|  |
+| ------- |
+| [2097-valid-arrangement-of-pairs](https://github.com/DevVedantk/Leetcode/tree/master/2097-valid-arrangement-of-pairs) |
 <!---LeetCode Topics End-->
