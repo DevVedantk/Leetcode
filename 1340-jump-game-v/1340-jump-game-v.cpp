@@ -19,10 +19,10 @@ public:
         return dp[idx]=ans;
     }
     int maxJumps(vector<int>& arr, int d) {
-        int ans=0;
+        int ans=1;
 
-        for(int i=0;i<arr.size();i++){
             memset(dp,-1,sizeof(dp));
+        for(int i=0;i<arr.size();i++){
             ans=max(ans,solve(i,arr,d));
         }
 
