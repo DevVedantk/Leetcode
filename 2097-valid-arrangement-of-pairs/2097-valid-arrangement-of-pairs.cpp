@@ -34,12 +34,12 @@ public:
             in=In[u];
          }
          if((o-in)==1){
-            cout << "here1 " << u << " in " << In[u] << " " << Out[u] << endl;
+            // cout << "here1 " << u << " in " << In[u] << " " << Out[u] << endl;
              start=u;
              break;
          } 
 
-          o=-1,in=-1;
+         o=-1,in=-1;
           if(Out.find(v)!=Out.end()){
             o=Out[v];
          }
@@ -49,13 +49,13 @@ public:
          
          if((o-in)==1){
             start=v;
-              cout << "here2 " << v << " in " << In[v] << " " << Out[v] << endl;
+            //   cout << "here2 " << v << " in " << In[v] << " " << Out[v] << endl;
             break;
          }
        }
          if(start==-1) start=pairs[0][0];
          dfs(start);
-         cout << "start " << start << endl;
+        //  cout << "start " << start << endl;
 
         int n=pairs.size();
         // reverse(path.begin(),path.end());
