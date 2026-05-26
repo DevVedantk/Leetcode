@@ -220,6 +220,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2999-count-the-number-of-powerful-integers](https://github.com/DevVedantk/Leetcode/tree/master/2999-count-the-number-of-powerful-integers) |
 | [3031-minimum-time-to-revert-word-to-initial-state-ii](https://github.com/DevVedantk/Leetcode/tree/master/3031-minimum-time-to-revert-word-to-initial-state-ii) |
 | [3093-longest-common-suffix-queries](https://github.com/DevVedantk/Leetcode/tree/master/3093-longest-common-suffix-queries) |
+| [3120-count-the-number-of-special-characters-i](https://github.com/DevVedantk/Leetcode/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3234-count-the-number-of-substrings-with-dominant-ones](https://github.com/DevVedantk/Leetcode/tree/master/3234-count-the-number-of-substrings-with-dominant-ones) |
 | [3291-minimum-number-of-valid-strings-to-form-target-i](https://github.com/DevVedantk/Leetcode/tree/master/3291-minimum-number-of-valid-strings-to-form-target-i) |
 | [3597-partition-string](https://github.com/DevVedantk/Leetcode/tree/master/3597-partition-string) |
@@ -437,6 +438,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2540-minimum-common-value](https://github.com/DevVedantk/Leetcode/tree/master/2540-minimum-common-value) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/DevVedantk/Leetcode/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [2784-check-if-array-is-good](https://github.com/DevVedantk/Leetcode/tree/master/2784-check-if-array-is-good) |
+| [3120-count-the-number-of-special-characters-i](https://github.com/DevVedantk/Leetcode/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3186-maximum-total-damage-with-spell-casting](https://github.com/DevVedantk/Leetcode/tree/master/3186-maximum-total-damage-with-spell-casting) |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/DevVedantk/Leetcode/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/DevVedantk/Leetcode/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
