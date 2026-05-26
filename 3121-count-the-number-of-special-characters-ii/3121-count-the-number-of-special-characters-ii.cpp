@@ -1,7 +1,7 @@
 class Solution {
 public:
     int numberOfSpecialChars(string word) {
-        map<int,int>mp;
+        unordered_map<int,int>mp;
         for(int i=0;i<word.size();i++){
             if((int)word[i]>=97 && (int)word[i]<=122){
                 mp[word[i]-97]=i;
