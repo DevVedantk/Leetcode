@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0085-maximal-rectangle](https://github.com/DevVedantk/Leetcode/tree/master/0085-maximal-rectangle) |
 | [0120-triangle](https://github.com/DevVedantk/Leetcode/tree/master/0120-triangle) |
 | [0130-surrounded-regions](https://github.com/DevVedantk/Leetcode/tree/master/0130-surrounded-regions) |
+| [0152-maximum-product-subarray](https://github.com/DevVedantk/Leetcode/tree/master/0152-maximum-product-subarray) |
 | [0307-range-sum-query-mutable](https://github.com/DevVedantk/Leetcode/tree/master/0307-range-sum-query-mutable) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/DevVedantk/Leetcode/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0332-reconstruct-itinerary](https://github.com/DevVedantk/Leetcode/tree/master/0332-reconstruct-itinerary) |
@@ -553,6 +554,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/DevVedantk/Leetcode/tree/master/0053-maximum-subarray) |
 | [0085-maximal-rectangle](https://github.com/DevVedantk/Leetcode/tree/master/0085-maximal-rectangle) |
 | [0120-triangle](https://github.com/DevVedantk/Leetcode/tree/master/0120-triangle) |
+| [0152-maximum-product-subarray](https://github.com/DevVedantk/Leetcode/tree/master/0152-maximum-product-subarray) |
 | [0233-number-of-digit-one](https://github.com/DevVedantk/Leetcode/tree/master/0233-number-of-digit-one) |
 | [0343-integer-break](https://github.com/DevVedantk/Leetcode/tree/master/0343-integer-break) |
 | [0413-arithmetic-slices](https://github.com/DevVedantk/Leetcode/tree/master/0413-arithmetic-slices) |
