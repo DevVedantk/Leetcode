@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2115-find-all-possible-recipes-from-given-supplies](https://github.com/DevVedantk/Leetcode/tree/master/2115-find-all-possible-recipes-from-given-supplies) |
 | [2125-number-of-laser-beams-in-a-bank](https://github.com/DevVedantk/Leetcode/tree/master/2125-number-of-laser-beams-in-a-bank) |
 | [2126-destroying-asteroids](https://github.com/DevVedantk/Leetcode/tree/master/2126-destroying-asteroids) |
+| [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/DevVedantk/Leetcode/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2227-encrypt-and-decrypt-strings](https://github.com/DevVedantk/Leetcode/tree/master/2227-encrypt-and-decrypt-strings) |
 | [2257-count-unguarded-cells-in-the-grid](https://github.com/DevVedantk/Leetcode/tree/master/2257-count-unguarded-cells-in-the-grid) |
 | [2261-k-divisible-elements-subarrays](https://github.com/DevVedantk/Leetcode/tree/master/2261-k-divisible-elements-subarrays) |
@@ -372,6 +373,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/DevVedantk/Leetcode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [2087-minimum-cost-homecoming-of-a-robot-in-a-grid](https://github.com/DevVedantk/Leetcode/tree/master/2087-minimum-cost-homecoming-of-a-robot-in-a-grid) |
 | [2126-destroying-asteroids](https://github.com/DevVedantk/Leetcode/tree/master/2126-destroying-asteroids) |
+| [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/DevVedantk/Leetcode/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2497-maximum-star-sum-of-a-graph](https://github.com/DevVedantk/Leetcode/tree/master/2497-maximum-star-sum-of-a-graph) |
 | [3074-apple-redistribution-into-boxes](https://github.com/DevVedantk/Leetcode/tree/master/3074-apple-redistribution-into-boxes) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/DevVedantk/Leetcode/tree/master/3075-maximize-happiness-of-selected-children) |
@@ -399,6 +401,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/DevVedantk/Leetcode/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2092-find-all-people-with-secret](https://github.com/DevVedantk/Leetcode/tree/master/2092-find-all-people-with-secret) |
 | [2126-destroying-asteroids](https://github.com/DevVedantk/Leetcode/tree/master/2126-destroying-asteroids) |
+| [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/DevVedantk/Leetcode/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2497-maximum-star-sum-of-a-graph](https://github.com/DevVedantk/Leetcode/tree/master/2497-maximum-star-sum-of-a-graph) |
 | [2751-robot-collisions](https://github.com/DevVedantk/Leetcode/tree/master/2751-robot-collisions) |
 | [2784-check-if-array-is-good](https://github.com/DevVedantk/Leetcode/tree/master/2784-check-if-array-is-good) |
