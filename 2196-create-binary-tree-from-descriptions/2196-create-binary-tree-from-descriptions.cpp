@@ -12,7 +12,7 @@
 class Solution {
 public:
 
-TreeNode* solve(map<int,vector<int>>&mp,TreeNode* node){
+TreeNode* solve(unordered_map<int,vector<int>>&mp,TreeNode* node){
       if(mp[node->val][0]==-1 && mp[node->val][1]==-1){
         return node;
       }
@@ -30,8 +30,8 @@ TreeNode* solve(map<int,vector<int>>&mp,TreeNode* node){
 
 }
     TreeNode* createBinaryTree(vector<vector<int>>& arr) {
-            map<int,vector<int>>mp;
-            set<int>st;
+            unordered_map<int,vector<int>>mp;
+            unordered_set<int>st;
             
             for(int i=0;i<arr.size();i++){
                 st.insert(arr[i][1]);
