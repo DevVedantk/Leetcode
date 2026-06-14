@@ -1,19 +1,50 @@
 class Solution {
 public:
     int pairSum(ListNode* head) {
-           vector<int>arr;
+           int len=0;
 
            ListNode* temp=head;
            while(temp!=NULL){
-            arr.push_back(temp->val);
+             len++;
             temp=temp->next;
            }  
+           
+           ListNode* first=head;
 
-           int ans=INT_MIN;
-           int n=arr.size();
-           for(int i=0;i<n;i++){
-            ans=max(ans,arr[i]+arr[n-1-i]);
-           }      
+           temp=head;
+           
+           int cnt=1;
+           while(cnt<(len)/2){
+            cnt++;
+            temp=temp->next;
+           }
+            
+          
+           ListNode* second=temp->next;
+           temp->next=NULL;
+
+
+           //reverse 2nd half
+           ListNode* nexts=second->next;
+           ListNode* curr=second;
+           ListNode* prev=NULL;
+
+           while(curr!=NULL){
+               curr->next=prev;
+               prev=curr;
+               curr=nexts;
+             if(nexts!=NULL)  nexts=nexts->next;
+           }
+
+
+           int ans=0;
+
+           while(prev!=NULL){
+            ans=max(ans,prev->val+first->val);
+            prev=prev->next;
+            first=first->next;
+           }
            return ans;
+            
     }
 };
