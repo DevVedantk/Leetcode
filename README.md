@@ -361,6 +361,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1697-checking-existence-of-edge-length-limited-paths](https://github.com/DevVedantk/Leetcode/tree/master/1697-checking-existence-of-edge-length-limited-paths) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/DevVedantk/Leetcode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/DevVedantk/Leetcode/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/DevVedantk/Leetcode/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/DevVedantk/Leetcode/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2540-minimum-common-value](https://github.com/DevVedantk/Leetcode/tree/master/2540-minimum-common-value) |
 | [3186-maximum-total-damage-with-spell-casting](https://github.com/DevVedantk/Leetcode/tree/master/3186-maximum-total-damage-with-spell-casting) |
@@ -782,6 +783,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0085-maximal-rectangle](https://github.com/DevVedantk/Leetcode/tree/master/0085-maximal-rectangle) |
 | [0739-daily-temperatures](https://github.com/DevVedantk/Leetcode/tree/master/0739-daily-temperatures) |
 | [1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/DevVedantk/Leetcode/tree/master/1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/DevVedantk/Leetcode/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2751-robot-collisions](https://github.com/DevVedantk/Leetcode/tree/master/2751-robot-collisions) |
 | [3703-remove-k-balanced-substrings](https://github.com/DevVedantk/Leetcode/tree/master/3703-remove-k-balanced-substrings) |
 | [3746-minimum-string-length-after-balanced-removals](https://github.com/DevVedantk/Leetcode/tree/master/3746-minimum-string-length-after-balanced-removals) |
@@ -951,6 +953,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/DevVedantk/Leetcode/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/DevVedantk/Leetcode/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
 ## Trie
 |  |
