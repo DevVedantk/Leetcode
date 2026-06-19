@@ -1,0 +1,2 @@
+# Write your MySQL query statement below
+SELECT data.customer_id FROM (SELECT customer_id,DATEDIFF(MAX(transaction_date), MIN(transaction_date)) AS active_days,SUM(transaction_type='purchase') as p_cnt,count(customer_id) as total_cnt from customer_transactions group by customer_id) as data where data.active_days>=30 AND data.p_cnt>=3 AND (((data.total_cnt-data.p_cnt)/data.total_cnt)*100)<20;
