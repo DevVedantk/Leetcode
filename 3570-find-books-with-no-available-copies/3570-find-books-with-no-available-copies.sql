@@ -1,0 +1,2 @@
+# Write your MySQL query statement below
+SELECT lbook.book_id,lbook.title,lbook.author,lbook.genre,lbook.publication_year,lib.curr_cnt as current_borrowers FROM library_books as lbook LEFT JOIN (SELECT book_id,COUNT(book_id) as curr_cnt FROM borrowing_records where return_date IS NULL GROUP BY book_id) as lib on lib.book_id=lbook.book_id WHERE (lbook.total_copies-lib.curr_cnt)=0 order by current_borrowers desc,lbook.title;
