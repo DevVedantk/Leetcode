@@ -1,0 +1,2 @@
+# Write your MySQL query statement below
+SELECT userdata.user_id,userdata.prompt_count,userdata.avg_tokens FROM (SELECT user_id,count(user_id) as prompt_count,ROUND(AVG(tokens),2) as avg_tokens,MAX(tokens) as mx_tok FROM prompts GROUP BY user_id) as userdata where userdata.mx_tok>userdata.avg_tokens AND userdata.prompt_count>=3 ORDER BY userdata.avg_tokens DESC,userdata.user_id;
