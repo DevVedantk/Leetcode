@@ -1,2 +1,18 @@
-# Write your MySQL query statement below
-SELECT ua.user_id,trail.trial_avg_duration ,ROUND(AVG(ua.activity_duration),2) as paid_avg_duration FROM UserActivity as ua RIGHT JOIN (SELECT user_id,activity_type,ROUND(AVG(activity_duration),2) as trial_avg_duration  FROM UserActivity where activity_type='free_trial' group by user_id) as trail on trail.user_id=ua.user_id where ua.activity_type='paid' group by ua.user_id order by ua.user_id;
+SELECT
+    ua.user_id,
+    trail.trial_avg_duration,
+    ROUND(AVG(ua.activity_duration), 2) AS paid_avg_duration
+FROM UserActivity AS ua
+RIGHT JOIN (
+    SELECT
+        user_id,
+        activity_type,
+        ROUND(AVG(activity_duration), 2) AS trial_avg_duration
+    FROM UserActivity
+    WHERE activity_type = 'free_trial'
+    GROUP BY user_id
+) AS trail
+    ON trail.user_id = ua.user_id
+WHERE ua.activity_type = 'paid'
+GROUP BY ua.user_id
+ORDER BY ua.user_id;
