@@ -1132,6 +1132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1789-primary-department-for-each-employee](https://github.com/DevVedantk/Leetcode/tree/master/1789-primary-department-for-each-employee) |
 | [1890-the-latest-login-in-2020](https://github.com/DevVedantk/Leetcode/tree/master/1890-the-latest-login-in-2020) |
 | [3570-find-books-with-no-available-copies](https://github.com/DevVedantk/Leetcode/tree/master/3570-find-books-with-no-available-copies) |
+| [3586-find-covid-recovery-patients](https://github.com/DevVedantk/Leetcode/tree/master/3586-find-covid-recovery-patients) |
 ## Minimum Spanning Tree
 |  |
 | ------- |
