@@ -34,9 +34,7 @@ vector<long long>ftime;
          }
 
         dfs(0,-1,adj,baseTime);
-        for(int ele:ftime) cout << ele << " ";
-        cout << endl;
-
+        
         return ftime[0];
     }
 };
