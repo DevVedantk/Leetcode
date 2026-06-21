@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/DevVedantk/Leetcode/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 | [1697-checking-existence-of-edge-length-limited-paths](https://github.com/DevVedantk/Leetcode/tree/master/1697-checking-existence-of-edge-length-limited-paths) |
 | [1732-find-the-highest-altitude](https://github.com/DevVedantk/Leetcode/tree/master/1732-find-the-highest-altitude) |
+| [1833-maximum-ice-cream-bars](https://github.com/DevVedantk/Leetcode/tree/master/1833-maximum-ice-cream-bars) |
 | [1848-minimum-distance-to-the-target-element](https://github.com/DevVedantk/Leetcode/tree/master/1848-minimum-distance-to-the-target-element) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/DevVedantk/Leetcode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/DevVedantk/Leetcode/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
@@ -383,6 +384,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/DevVedantk/Leetcode/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1578-minimum-time-to-make-rope-colorful](https://github.com/DevVedantk/Leetcode/tree/master/1578-minimum-time-to-make-rope-colorful) |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/DevVedantk/Leetcode/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
+| [1833-maximum-ice-cream-bars](https://github.com/DevVedantk/Leetcode/tree/master/1833-maximum-ice-cream-bars) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/DevVedantk/Leetcode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [2087-minimum-cost-homecoming-of-a-robot-in-a-grid](https://github.com/DevVedantk/Leetcode/tree/master/2087-minimum-cost-homecoming-of-a-robot-in-a-grid) |
 | [2126-destroying-asteroids](https://github.com/DevVedantk/Leetcode/tree/master/2126-destroying-asteroids) |
@@ -409,6 +411,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/DevVedantk/Leetcode/tree/master/1547-minimum-cost-to-cut-a-stick) |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/DevVedantk/Leetcode/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 | [1697-checking-existence-of-edge-length-limited-paths](https://github.com/DevVedantk/Leetcode/tree/master/1697-checking-existence-of-edge-length-limited-paths) |
+| [1833-maximum-ice-cream-bars](https://github.com/DevVedantk/Leetcode/tree/master/1833-maximum-ice-cream-bars) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/DevVedantk/Leetcode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/DevVedantk/Leetcode/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/DevVedantk/Leetcode/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
@@ -1151,6 +1154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0912-sort-an-array](https://github.com/DevVedantk/Leetcode/tree/master/0912-sort-an-array) |
+| [1833-maximum-ice-cream-bars](https://github.com/DevVedantk/Leetcode/tree/master/1833-maximum-ice-cream-bars) |
 ## Eulerian Circuit
 |  |
 | ------- |
