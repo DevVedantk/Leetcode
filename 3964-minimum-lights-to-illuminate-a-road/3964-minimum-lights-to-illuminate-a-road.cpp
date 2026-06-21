@@ -11,10 +11,7 @@ public:
             }
          }
          sort(intervals.begin(),intervals.end());
-         for(auto [l,r]:intervals){
-            cout << l << " " << r << endl;
-         }
-         cout << endl;
+       
 
          vector<pair<int,int>>merge;
 
@@ -30,8 +27,7 @@ public:
              } else if(currL>prevR) merge.push_back({currL,currR});
              i++;
         }
-        for(auto [l,r]:merge) cout << l << " " << r << endl;
-
+     
         if(merge.size()==0){
             return (n+2)/3;
         }
