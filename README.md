@@ -206,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0955-delete-columns-to-make-sorted-ii](https://github.com/DevVedantk/Leetcode/tree/master/0955-delete-columns-to-make-sorted-ii) |
 | [0990-satisfiability-of-equality-equations](https://github.com/DevVedantk/Leetcode/tree/master/0990-satisfiability-of-equality-equations) |
 | [1032-stream-of-characters](https://github.com/DevVedantk/Leetcode/tree/master/1032-stream-of-characters) |
+| [1189-maximum-number-of-balloons](https://github.com/DevVedantk/Leetcode/tree/master/1189-maximum-number-of-balloons) |
 | [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/DevVedantk/Leetcode/tree/master/1320-minimum-distance-to-type-a-word-using-two-fingers) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/DevVedantk/Leetcode/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/DevVedantk/Leetcode/tree/master/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
@@ -450,6 +451,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/DevVedantk/Leetcode/tree/master/0947-most-stones-removed-with-same-row-or-column) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/DevVedantk/Leetcode/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [0997-find-the-town-judge](https://github.com/DevVedantk/Leetcode/tree/master/0997-find-the-town-judge) |
+| [1189-maximum-number-of-balloons](https://github.com/DevVedantk/Leetcode/tree/master/1189-maximum-number-of-balloons) |
 | [1311-get-watched-videos-by-your-friends](https://github.com/DevVedantk/Leetcode/tree/master/1311-get-watched-videos-by-your-friends) |
 | [1345-jump-game-iv](https://github.com/DevVedantk/Leetcode/tree/master/1345-jump-game-iv) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/DevVedantk/Leetcode/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
@@ -552,6 +554,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [1189-maximum-number-of-balloons](https://github.com/DevVedantk/Leetcode/tree/master/1189-maximum-number-of-balloons) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/DevVedantk/Leetcode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [2833-furthest-point-from-origin](https://github.com/DevVedantk/Leetcode/tree/master/2833-furthest-point-from-origin) |
 | [3186-maximum-total-damage-with-spell-casting](https://github.com/DevVedantk/Leetcode/tree/master/3186-maximum-total-damage-with-spell-casting) |
