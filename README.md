@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1848-minimum-distance-to-the-target-element](https://github.com/DevVedantk/Leetcode/tree/master/1848-minimum-distance-to-the-target-element) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/DevVedantk/Leetcode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/DevVedantk/Leetcode/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
+| [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/DevVedantk/Leetcode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [1980-find-unique-binary-string](https://github.com/DevVedantk/Leetcode/tree/master/1980-find-unique-binary-string) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/DevVedantk/Leetcode/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/DevVedantk/Leetcode/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
@@ -217,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1578-minimum-time-to-make-rope-colorful](https://github.com/DevVedantk/Leetcode/tree/master/1578-minimum-time-to-make-rope-colorful) |
 | [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/DevVedantk/Leetcode/tree/master/1758-minimum-changes-to-make-alternating-binary-string) |
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/DevVedantk/Leetcode/tree/master/1784-check-if-binary-string-has-at-most-one-segment-of-ones) |
+| [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/DevVedantk/Leetcode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [1980-find-unique-binary-string](https://github.com/DevVedantk/Leetcode/tree/master/1980-find-unique-binary-string) |
 | [2115-find-all-possible-recipes-from-given-supplies](https://github.com/DevVedantk/Leetcode/tree/master/2115-find-all-possible-recipes-from-given-supplies) |
 | [2125-number-of-laser-beams-in-a-bank](https://github.com/DevVedantk/Leetcode/tree/master/2125-number-of-laser-beams-in-a-bank) |
