@@ -1,54 +1,74 @@
 class Solution {
 public:
-int m,n;
-vector<int>dx={1,0,1};
-vector<int>dy={0,1,1};
 int MOD=1e9+7;
+int dp2[101][101][2000];
+
 int dp1[101][101];
-int dp2[101][101][1900];
-int solve(vector<string>& board,int row,int col){
-  if(row==m-1 && col==n-1) return 0;
-  if(row>=m || col>=n || board[row][col]=='X') return -1e9;
-  
-  if(dp1[row][col]!=-1) return dp1[row][col];
-  int ans=-1e9;
-  
-  for(int d=0;d<3;d++){
-    int val=solve(board,row+dx[d],col+dy[d]);
- if(val!=-1e9)  ans=max(ans,(board[row][col]!='S' ? board[row][col]-'0' : 0)+val);
+  int solve(int row,int col,vector<string>&board){
+      if(board[row][col]=='S'){
+        return 0;
+      }  
+
+       int n=board.size();
+      if(row>=n || col>=n) return INT_MIN;
+      if(dp1[row][col]!=-1) return dp1[row][col];
+
+
+      int ans=INT_MIN;
+
+      if(board[row][col]=='E'){
+        if(row+1<n && board[row+1][col]!='X') ans=max(ans,solve(row+1,col,board));
+        if(col+1<n && board[row][col+1]!='X') ans=max(ans,solve(row,col+1,board));
+        if(col+1<n && row+1<n && board[row+1][col+1]!='X') ans=max(ans,solve(row+1,col+1,board));
+      } else{
+        if(row+1<n && board[row+1][col]!='X') ans=max(ans,board[row][col]-'0'+solve(row+1,col,board));
+        if(col+1<n && board[row][col+1]!='X') ans=max(ans,board[row][col]-'0'+solve(row,col+1,board));
+        if(col+1<n && row+1<n && board[row+1][col+1]!='X') ans=max(ans,board[row][col]-'0'+solve(row+1,col+1,board));
+      }
+
+      return dp1[row][col]=ans;
+
   }
-  return dp1[row][col]=ans;
+
+  int solve2(int row,int col,int target,int sum,vector<string>&board){
+          
+          if(board[row][col]=='S'){
+            return (sum==target);
+          }
   
-}
+               
+       int n=board.size();
+      if(row>=n || col>=n) return 0;
+          if(dp2[row][col][sum]!=-1) return dp2[row][col][sum]; 
 
-int paths(vector<string>& board,int row,int col,int score,int curr){
-  if(row==m-1 && col==n-1) return (score==curr);
+          int ans=0;
 
-  if(row>=m || col>=n || board[row][col]=='X') return 0;
-   
-   if(dp2[row][col][curr]!=-1) return dp2[row][col][curr];
-  int ans=0;
-  for(int d=0;d<3;d++){
-    ans=(ans+paths(board,row+dx[d],col+dy[d],score,curr+(board[row][col]!='S' ? board[row][col]-'0' : 0)))%MOD;
+        if(board[row][col]=='E'){
+        if(row+1<n && board[row+1][col]!='X') ans=(ans+solve2(row+1,col,target,sum,board))%MOD;
+        if(col+1<n && board[row][col+1]!='X') ans=(ans+solve2(row,col+1,target,sum,board))%MOD;
+        if(col+1<n && row+1<n && board[row+1][col+1]!='X') ans=(ans+solve2(row+1,col+1,target,sum,board))%MOD;
+      } else{
+        if(row+1<n && board[row+1][col]!='X') ans=(ans+solve2(row+1,col,target,sum+board[row][col]-'0',board))%MOD;
+        if(col+1<n && board[row][col+1]!='X') ans=(ans+solve2(row,col+1,target,sum+board[row][col]-'0',board))%MOD;
+        if(col+1<n && row+1<n && board[row+1][col+1]!='X') ans=(ans+solve2(row+1,col+1,target,sum+board[row][col]-'0',board))%MOD;
+      }
+
+      return dp2[row][col][sum]=ans;
+
   }
 
-  return dp2[row][col][curr]=ans;
-}
 
-vector<int> pathsWithMaxScore(vector<string>& board) {
-        m=board.size();
-        n=board[0].size();
-        board[0][0]='S';
-        board[m-1][n-1]='E';
+    vector<int> pathsWithMaxScore(vector<string>& board) {
+          
         memset(dp1,-1,sizeof(dp1));
+        
+          int sum=solve(0,0,board);
+        //   cout << sum << " " << INT_MIN << endl;
+          if(sum<0) return {0,0};
+          
         memset(dp2,-1,sizeof(dp2));
+          int paths=solve2(0,0,sum,0,board);
 
-        int ans=solve(board,0,0);
-        if(ans==-1e9) ans=0;
-
-        int path=paths(board,0,0,ans,0);
-        if(path==0) return {0,0};
-
-        return {ans,path}; 
+          return {sum,paths};
     }
 };
