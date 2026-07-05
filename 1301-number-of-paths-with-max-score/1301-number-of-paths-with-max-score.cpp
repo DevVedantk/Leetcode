@@ -1,7 +1,7 @@
 class Solution {
 public:
 int MOD=1e9+7;
-int dp2[101][101][2000];
+int dp2[101][101][1801];
 
 int dp1[101][101];
   int solve(int row,int col,vector<string>&board){
