@@ -6,24 +6,22 @@ public:
             else return a[1]>b[1];
            });
               
-               
-
-          vector<pair<int,int>>brr;
-          brr.push_back({arr[0][0],arr[0][1]});
-
-          int i=1;
+             int i=1;
+          int prevIdx=0;
+          int cnt=1;
           while(i<arr.size()){
-               auto [prevL,prevR]=brr[brr.size()-1];
+            
               int currL=arr[i][0];
               int currR=arr[i][1];
-              if(currL>=prevL && currR<=prevR) i++;
+              if(currL>=arr[prevIdx][0] && currR<=arr[prevIdx][1]) i++;
               else{
-                brr.push_back({currL,currR});
+                 prevIdx=i;
+                 cnt++;
                 i++;
               }
           }
 
-          return brr.size();
+          return cnt;
    
     }
 };
