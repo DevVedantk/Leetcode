@@ -810,6 +810,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Enumeration
 |  |
 | ------- |
+| [1291-sequential-digits](https://github.com/DevVedantk/Leetcode/tree/master/1291-sequential-digits) |
 | [1761-minimum-degree-of-a-connected-trio-in-a-graph](https://github.com/DevVedantk/Leetcode/tree/master/1761-minimum-degree-of-a-connected-trio-in-a-graph) |
 | [2261-k-divisible-elements-subarrays](https://github.com/DevVedantk/Leetcode/tree/master/2261-k-divisible-elements-subarrays) |
 | [3234-count-the-number-of-substrings-with-dominant-ones](https://github.com/DevVedantk/Leetcode/tree/master/3234-count-the-number-of-substrings-with-dominant-ones) |
