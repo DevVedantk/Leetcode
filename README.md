@@ -205,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/DevVedantk/Leetcode/tree/master/0067-add-binary) |
+| [0115-distinct-subsequences](https://github.com/DevVedantk/Leetcode/tree/master/0115-distinct-subsequences) |
 | [0208-implement-trie-prefix-tree](https://github.com/DevVedantk/Leetcode/tree/master/0208-implement-trie-prefix-tree) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/DevVedantk/Leetcode/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0332-reconstruct-itinerary](https://github.com/DevVedantk/Leetcode/tree/master/0332-reconstruct-itinerary) |
@@ -610,6 +611,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0053-maximum-subarray](https://github.com/DevVedantk/Leetcode/tree/master/0053-maximum-subarray) |
 | [0085-maximal-rectangle](https://github.com/DevVedantk/Leetcode/tree/master/0085-maximal-rectangle) |
+| [0115-distinct-subsequences](https://github.com/DevVedantk/Leetcode/tree/master/0115-distinct-subsequences) |
 | [0120-triangle](https://github.com/DevVedantk/Leetcode/tree/master/0120-triangle) |
 | [0152-maximum-product-subarray](https://github.com/DevVedantk/Leetcode/tree/master/0152-maximum-product-subarray) |
 | [0233-number-of-digit-one](https://github.com/DevVedantk/Leetcode/tree/master/0233-number-of-digit-one) |
