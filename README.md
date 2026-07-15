@@ -801,6 +801,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/DevVedantk/Leetcode/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/DevVedantk/Leetcode/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/DevVedantk/Leetcode/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/DevVedantk/Leetcode/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3704-count-no-zero-pairs-that-sum-to-n](https://github.com/DevVedantk/Leetcode/tree/master/3704-count-no-zero-pairs-that-sum-to-n) |
 | [3725-count-ways-to-choose-coprime-integers-from-rows](https://github.com/DevVedantk/Leetcode/tree/master/3725-count-ways-to-choose-coprime-integers-from-rows) |
 | [3732-maximum-product-of-three-elements-after-one-replacement](https://github.com/DevVedantk/Leetcode/tree/master/3732-maximum-product-of-three-elements-after-one-replacement) |
@@ -1063,6 +1064,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/DevVedantk/Leetcode/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/DevVedantk/Leetcode/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3725-count-ways-to-choose-coprime-integers-from-rows](https://github.com/DevVedantk/Leetcode/tree/master/3725-count-ways-to-choose-coprime-integers-from-rows) |
 ## Suffix Array
 |  |
