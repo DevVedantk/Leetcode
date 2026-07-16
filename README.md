@@ -171,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3824-minimum-k-to-reduce-array-within-limit](https://github.com/DevVedantk/Leetcode/tree/master/3824-minimum-k-to-reduce-array-within-limit) |
 | [3826-minimum-partition-score](https://github.com/DevVedantk/Leetcode/tree/master/3826-minimum-partition-score) |
 | [3838-weighted-word-mapping](https://github.com/DevVedantk/Leetcode/tree/master/3838-weighted-word-mapping) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/DevVedantk/Leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [3873-maximum-points-activated-with-one-addition](https://github.com/DevVedantk/Leetcode/tree/master/3873-maximum-points-activated-with-one-addition) |
 | [3905-multi-source-flood-fill](https://github.com/DevVedantk/Leetcode/tree/master/3905-multi-source-flood-fill) |
 | [3910-count-connected-subgraphs-with-even-node-sum](https://github.com/DevVedantk/Leetcode/tree/master/3910-count-connected-subgraphs-with-even-node-sum) |
@@ -288,6 +289,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3775-reverse-words-with-same-vowel-count](https://github.com/DevVedantk/Leetcode/tree/master/3775-reverse-words-with-same-vowel-count) |
 | [3819-rotate-non-negative-elements](https://github.com/DevVedantk/Leetcode/tree/master/3819-rotate-non-negative-elements) |
 | [3838-weighted-word-mapping](https://github.com/DevVedantk/Leetcode/tree/master/3838-weighted-word-mapping) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/DevVedantk/Leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Tree
 |  |
 | ------- |
@@ -395,6 +397,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3750-minimum-number-of-flips-to-reverse-binary-string](https://github.com/DevVedantk/Leetcode/tree/master/3750-minimum-number-of-flips-to-reverse-binary-string) |
 | [3775-reverse-words-with-same-vowel-count](https://github.com/DevVedantk/Leetcode/tree/master/3775-reverse-words-with-same-vowel-count) |
 | [3794-reverse-string-prefix](https://github.com/DevVedantk/Leetcode/tree/master/3794-reverse-string-prefix) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/DevVedantk/Leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Greedy
 |  |
 | ------- |
@@ -462,6 +465,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3759-count-elements-with-at-least-k-greater-values](https://github.com/DevVedantk/Leetcode/tree/master/3759-count-elements-with-at-least-k-greater-values) |
 | [3774-absolute-difference-between-maximum-and-minimum-k-elements](https://github.com/DevVedantk/Leetcode/tree/master/3774-absolute-difference-between-maximum-and-minimum-k-elements) |
 | [3776-minimum-moves-to-balance-circular-array](https://github.com/DevVedantk/Leetcode/tree/master/3776-minimum-moves-to-balance-circular-array) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/DevVedantk/Leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Hash Table
 |  |
 | ------- |
@@ -813,6 +817,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3783-mirror-distance-of-an-integer](https://github.com/DevVedantk/Leetcode/tree/master/3783-mirror-distance-of-an-integer) |
 | [3789-minimum-cost-to-acquire-required-items](https://github.com/DevVedantk/Leetcode/tree/master/3789-minimum-cost-to-acquire-required-items) |
 | [3805-count-caesar-cipher-pairs](https://github.com/DevVedantk/Leetcode/tree/master/3805-count-caesar-cipher-pairs) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/DevVedantk/Leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Enumeration
 |  |
 | ------- |
@@ -1066,6 +1071,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/DevVedantk/Leetcode/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/DevVedantk/Leetcode/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3725-count-ways-to-choose-coprime-integers-from-rows](https://github.com/DevVedantk/Leetcode/tree/master/3725-count-ways-to-choose-coprime-integers-from-rows) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/DevVedantk/Leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Suffix Array
 |  |
 | ------- |
